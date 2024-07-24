@@ -1,0 +1,10 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jun 16, 2022, 8:02:59 PM
+
+#terrablender:nether_regions
+- minecraft:the_nether (from TerraBlender)
+
+#enhancedcelestials:has_lunar_events
+- minecraft:overworld (from Enhanced Celestials)
+
+#terrablender:overworld_regions
+- minecraft:overworld (from TerraBlender)

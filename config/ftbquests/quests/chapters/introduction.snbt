@@ -1,0 +1,134 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduction"
+	group: "5732ED1432D9646C"
+	icon: "adventurez:handbook"
+	id: "00B53D69C635CCA9"
+	images: [{
+		click: ""
+		corner: false
+		dev: false
+		height: 9.0d
+		hover: [ ]
+		image: "questsicons:textures/item/logo_fabric.png"
+		rotation: 0.0d
+		width: 13.0d
+		x: 0.0d
+		y: -2.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			description: ["Welcome to Dreamcraft, a large modpack with all types of mods.       Feel free to play around with the mods like you want or follow every quest chapter, but don't forget that you'll need to finish most of the mods to get the endgame stuff! If you ever need more inspiration check the advancements!"]
+			icon: "ad_astra:earth_globe"
+			id: "120A6331136951E4"
+			shape: "gear"
+			size: 3.0d
+			tasks: [{
+				id: "323BF3F2285ACD9D"
+				title: "Welcome to Dreamcraft!"
+				type: "checkmark"
+			}]
+			title: "Welcome to Dreamcraft!"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["120A6331136951E4"]
+			description: ["Unlocks the chapter that will unlock the other chapters."]
+			id: "297D1E50C45B87F1"
+			rewards: [{
+				id: "7E2026F3F79C2A0C"
+				item: {
+					Count: 1b
+					id: "questsicons:quest_reward"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			shape: "gear"
+			size: 1.4d
+			tasks: [{
+				id: "6E3C9A36FBD838D2"
+				title: "Let's begin the quests !"
+				type: "checkmark"
+			}]
+			title: "Lets begin with the Quests!"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			description: ["Vein mining is provided with an enchantment!"]
+			icon: {
+				Count: 1b
+				id: "minecraft:iron_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "11B0937D9F284BD6"
+			shape: "gear"
+			tasks: [{
+				id: "3199F6FA95A1CAD4"
+				title: "Vein Mining"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			description: ["To play a quest chapter, you have to unlock it first in the Unlock Chapters section. In the same section, you can click a checkmark when you finished the chapter, to prove to the whole world you finished it :p"]
+			icon: {
+				Count: 1b
+				id: "questsicons:chapter_lock"
+				tag: { }
+			}
+			id: "693EB234B0E8AC00"
+			shape: "gear"
+			tasks: [{
+				id: "3A4E320AF0C984B3"
+				title: "Quest Progression"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			description: ["As you can see, your armor, hand slots and a few other info are displayed. To add more or to disable that, go to mod menu and configure Inventory HUD+."]
+			icon: "questsicons:quest_backpack"
+			id: "4883F446C72C28B0"
+			shape: "gear"
+			tasks: [{
+				id: "27F3E62C51B6DF6D"
+				title: "Inventory HUD"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			description: ["With FTB Teams, you can create teams that will have access to the same claimed chunks and a quest completed by someone from a team will be completed for the other members as well."]
+			icon: {
+				Count: 1b
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "ftblibrary:textures/icons/friends.png"
+				}
+			}
+			id: "7DD86EE4EBC25062"
+			shape: "gear"
+			tasks: [{
+				id: "18BFE25A0C4F4FFB"
+				type: "checkmark"
+			}]
+			title: "Teams"
+			x: 3.5d
+			y: 1.5d
+		}
+	]
+	title: "Welcome"
+}

@@ -1,0 +1,113 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 1, 2022, 2:44:46 PM
+
+#c:visual/honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#minecraft:water
+- minecraft:water
+- minecraft:flowing_water
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+- minecraft:water
+- indrev:coolant_still
+- indrev:coolant_flowing
+- indrev:sulfuric_acid_still
+- indrev:sulfuric_acid_flowing
+- indrev:toxic_mud_still
+- indrev:toxic_mud_flowing
+- sandwichable:pickle_brine
+- sandwichable:pickle_brine_flowing
+- the_aether:dense_aercloud
+- the_aether:spring_water
+- the_aether:flowing_spring_water
+- minecraft:water
+- minecraft:flowing_water
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+- xps:xp_fluid
+- xps:flowing_xp
+
+#the_aether:swet_transformers/transformers
+- #the_aether:swet_transformers/blue
+- #the_aether:swet_transformers/golden
+- #the_aether:swet_transformers/purple
+- #the_aether:swet_transformers/vermilion
+
+#ae2:blacklisted/annihilation_plane
+
+#spectrum:mud
+- spectrum:mud
+- spectrum:flowing_mud
+
+#the_bumblezone:honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#the_aether:swet_transformers/golden
+
+#c:visual/water
+- minecraft:water
+- minecraft:flowing_water
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+
+#minecraft:lava
+- minecraft:lava
+- minecraft:flowing_lava
+- indrev:molten_netherite_still
+- indrev:molten_netherite_flowing
+- indrev:molten_iron_still
+- indrev:molten_iron_flowing
+- indrev:molten_copper_still
+- indrev:molten_copper_flowing
+- indrev:molten_gold_still
+- indrev:molten_gold_flowing
+- indrev:molten_tin_still
+- indrev:molten_tin_flowing
+- indrev:molten_lead_still
+- indrev:molten_lead_flowing
+- indrev:molten_silver_still
+- indrev:molten_silver_flowing
+
+#the_aether:swet_transformers/vermilion
+
+#spectrum:midnight_solution
+- spectrum:midnight_solution
+- spectrum:flowing_midnight_solution
+
+#c:honey
+- the_bumblezone:honey_fluid_still
+- the_bumblezone:honey_fluid_flowing
+
+#the_aether:swet_transformers/purple
+
+#c:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch
+- decorative_blocks:flowing_thatch
+
+#the_aether:spring_water
+- the_aether:spring_water
+- the_aether:flowing_spring_water
+
+#spectrum:liquid_crystal
+- spectrum:liquid_crystal
+- spectrum:flowing_liquid_crystal
+
+#earthtojavamobs:mud
+- earthtojavamobs:mud_fluid
+- earthtojavamobs:mud_fluid_flowing
+
+#the_bumblezone:convertible_to_sugar_water
+- minecraft:water
+- minecraft:flowing_water
+- the_bumblezone:sugar_water_still
+- the_bumblezone:sugar_water_flowing
+
+#the_aether:swet_transformers/blue
+- minecraft:water
+- minecraft:flowing_water

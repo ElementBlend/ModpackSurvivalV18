@@ -1,0 +1,846 @@
+To refresh this file, delete it and run /reload command again! Last updated: Apr 1, 2022, 2:44:46 PM
+
+#twm:10xp
+- minecraft:blaze
+- minecraft:evoker
+- minecraft:elder_guardian
+- minecraft:guardian
+
+#c:skeletons
+- earthtojavamobs:skeleton_wolf
+
+#the_aether:condition_immunities/venom
+- the_aether:cockatrice
+- the_aether:aechor_plant
+- the_aether:purple_swet
+
+#dml-refabricated:end_mobs
+- minecraft:enderman
+- minecraft:shulker
+- minecraft:endermite
+
+#biomemakeover:lightning_bugs
+- biomemakeover:lightning_bug
+- biomemakeover:lightning_bug_alternate
+
+#haema:medium_blood_sources
+- minecraft:sheep
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:horse
+- minecraft:cat
+- minecraft:llama
+- minecraft:mooshroom
+- minecraft:mule
+- minecraft:ocelot
+- minecraft:panda
+- minecraft:piglin
+- minecraft:rabbit
+- minecraft:wolf
+- minecraft:trader_llama
+- minecraft:hoglin
+- ratsmischief:rat?
+
+#twm:50xp
+- minecraft:wither
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#the_bumblezone:pollen_puff_can_pollinate
+- minecraft:bee
+
+#the_aether:condition_immunities/abstentine_toxicity
+- the_aether:cockatrice
+- the_aether:aechor_plant
+- the_aether:purple_swet
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+- minecraft:glow_squid
+- minecraft:axolotl
+
+#requiem:inventory/inventory_carriers
+- #goblintraders:goblin_traders
+- ratsmischief:rat
+
+#requiem:golems
+- bewitchment:demon
+
+#dml-refabricated:zombie_mobs
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:drowned
+- minecraft:husk
+- minecraft:zoglin
+- minecraft:zombified_piglin
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- minecraft:goat
+- quark:frog?
+
+#dml-refabricated:nether_mobs
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:zombified_piglin
+- minecraft:ghast
+- minecraft:magma_cube
+- minecraft:wither_skeleton
+- minecraft:blaze
+- minecraft:hoglin
+- minecraft:zoglin
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:glow_item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- minecraft:command_block_minecart
+- minecraft:marker
+- minecraft:area_effect_cloud
+- minecraft:evoker_fangs
+- minecraft:leash_knot
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#c:raiders
+- earthtojavamobs:viler_witch
+
+#minecraft:powder_snow_walkable_mobs
+- minecraft:rabbit
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+
+#exdel:mystery_arrow/results
+- minecraft:villager
+- minecraft:zombie
+- minecraft:pig
+- minecraft:sheep
+- minecraft:cow
+- minecraft:chicken
+- minecraft:ocelot
+- minecraft:wolf
+- minecraft:llama
+- minecraft:horse
+- minecraft:hoglin
+- minecraft:piglin
+- #minecraft:skeletons
+- #minecraft:raiders
+- minecraft:bee
+- minecraft:axolotl
+- minecraft:bat
+- minecraft:blaze
+- minecraft:cave_spider
+- minecraft:dolphin
+- minecraft:donkey
+- minecraft:drowned
+- minecraft:elder_guardian
+- minecraft:guardian
+- minecraft:enderman
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+- minecraft:ghast
+- minecraft:squid
+- minecraft:husk
+- minecraft:iron_golem
+- minecraft:magma_cube
+- minecraft:slime
+- minecraft:mule
+- minecraft:mooshroom
+- minecraft:panda
+- minecraft:parrot
+- minecraft:phantom
+- minecraft:polar_bear
+- minecraft:tnt
+- minecraft:ravager
+- minecraft:rabbit
+- minecraft:shulker
+- minecraft:snow_golem
+- minecraft:spider
+- minecraft:stray
+- minecraft:strider
+- minecraft:turtle
+- minecraft:vex
+- minecraft:witch
+- minecraft:wandering_trader
+- minecraft:zombified_piglin
+- minecraft:zombie_horse
+
+#starmute:mobs
+- minecraft:player
+- minecraft:bat
+- minecraft:chicken
+- minecraft:cod
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:mule
+- minecraft:ocelot
+- minecraft:panda
+- minecraft:parrot
+- minecraft:pig
+- minecraft:rabbit
+- minecraft:sheep
+- minecraft:skeleton_horse
+- minecraft:salmon
+- minecraft:squid
+- minecraft:strider
+- minecraft:turtle
+- minecraft:tropical_fish
+- minecraft:villager
+- minecraft:wandering_trader
+- minecraft:bee
+- minecraft:dolphin
+- minecraft:polar_bear
+- minecraft:wolf
+- minecraft:cave_spider
+- minecraft:enderman
+- minecraft:iron_golem
+- minecraft:spider
+- minecraft:zombified_piglin
+- minecraft:llama
+- minecraft:trader_llama
+- minecraft:pufferfish
+- minecraft:blaze
+- minecraft:creeper
+- minecraft:drowned
+- minecraft:elder_guardian
+- minecraft:ender_dragon
+- minecraft:evoker
+- minecraft:ghast
+- minecraft:guardian
+- minecraft:hoglin
+- minecraft:husk
+- minecraft:magma_cube
+- minecraft:phantom
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:skeleton
+- minecraft:slime
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither
+- minecraft:wither_skeleton
+- minecraft:zoglin
+- minecraft:zombie
+- minecraft:zombie_villager
+
+#farmersdelight:dog_food_users
+- minecraft:wolf
+
+#requiem:inventory/supercrafters
+- #goblintraders:goblin_traders
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- adventurez:void_bullet
+- adventurez:fire_breath
+- the_bumblezone:pollen_puff
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+- adventurez:summoner
+- earthtojavamobs:skeleton_wolf
+
+#haema:good_blood_sources
+- minecraft:villager
+- minecraft:player
+- minecraft:pillager
+- minecraft:evoker
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+- minecraft:wandering_trader
+
+#twm:dropsxp
+- minecraft:axolotl
+- minecraft:cat
+- minecraft:chicken
+- minecraft:cod
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:glow_squid
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:parrot
+- minecraft:pig
+- minecraft:pufferfish
+- minecraft:rabbit
+- minecraft:salmon
+- minecraft:sheep
+- minecraft:squid
+- minecraft:strider
+- minecraft:skeleton_horse
+- minecraft:tropical_fish
+- minecraft:turtle
+- minecraft:zombie_horse
+- minecraft:bee
+- minecraft:dolphin
+- minecraft:goat
+- minecraft:llama
+- minecraft:panda
+- minecraft:polar_bear
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:endermite
+- minecraft:slime
+- minecraft:magma_cube
+- minecraft:cave_spider
+- minecraft:creeper
+- minecraft:drowned
+- minecraft:ghast
+- minecraft:hoglin
+- minecraft:husk
+- minecraft:illusioner
+- minecraft:phantom
+- minecraft:pillager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither_skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:zoglin
+- minecraft:enderman
+- minecraft:piglin
+- minecraft:spider
+- minecraft:zombified_piglin
+- minecraft:blaze
+- minecraft:evoker
+- minecraft:elder_guardian
+- minecraft:guardian
+- minecraft:ravager
+- minecraft:piglin_brute
+- minecraft:wither
+- minecraft:ender_dragon
+- twm:frog
+
+#dml-refabricated:ocean_mobs
+- minecraft:guardian
+- minecraft:drowned
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+- bewitchment:silver_arrow
+- gizmos:eye_of_ender_arrow
+
+#bewitchment:taglock_blacklist
+- #c:bosses
+
+#dml-refabricated:overworld_mobs
+- minecraft:creeper
+- minecraft:enderman
+- minecraft:skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:witch
+- minecraft:spider
+
+#starmute:ghastling_enemy
+- minecraft:ghast
+- minecraft:fireball
+
+#tradingpost:blacklisted_traders
+
+#dml-refabricated:slimy_mobs
+- minecraft:slime
+- minecraft:magma_cube
+
+#starmute:wither
+- minecraft:wither
+- minecraft:wither_skeleton
+- minecraft:skeleton
+- minecraft:zombified_piglin
+
+#eldritch_mobs:eldritch_allowed
+- ratsmischief:rat
+
+#minecraft:axolotl_always_hostiles
+- minecraft:drowned
+- minecraft:guardian
+- minecraft:elder_guardian
+
+#minecraft:freeze_immune_entity_types
+- minecraft:stray
+- minecraft:polar_bear
+- minecraft:snow_golem
+- minecraft:wither
+- adventurez:summoner
+
+#c:pollen
+- the_bumblezone:pollen_puff
+
+#biomemakeover:owl_targets
+- minecraft:rabbit
+- minecraft:chicken
+- minecraft:silverfish
+- minecraft:endermite
+- minecraft:bat
+- biomemakeover:toad
+- biomemakeover:blightbat
+- biomemakeover:dragonfly
+- biomemakeover:lightning_bug
+- biomemakeover:lightning_bug_alternate
+
+#gobber2:minion_mobs
+- minecraft:cave_spider
+- minecraft:enderman
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:spider
+- minecraft:wither_skeleton
+- minecraft:zombified_piglin
+
+#requiem:behavior/regular_eaters
+- ratsmischief:rat
+
+#dml-refabricated:illager_mobs
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+
+#twm:5xp
+- minecraft:cave_spider
+- minecraft:creeper
+- minecraft:drowned
+- minecraft:ghast
+- minecraft:hoglin
+- minecraft:husk
+- minecraft:illusioner
+- minecraft:phantom
+- minecraft:pillager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither_skeleton
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:zoglin
+- minecraft:enderman
+- minecraft:piglin
+- minecraft:spider
+- minecraft:zombified_piglin
+
+#requiem:possession_blacklist
+- bewitchment:leonard
+- bewitchment:baphomet
+- bewitchment:lilith
+- bewitchment:herne
+
+#c:bosses
+- minecraft:wither
+- minecraft:ender_dragon
+- minecraft:elder_guardian
+- archon:tar
+- archon:ayla
+- minecraft:ender_dragon
+- minecraft:wither
+- bewitchment:leonard
+- bewitchment:baphomet
+- bewitchment:lilith
+- bewitchment:herne
+- botania:doppleganger
+
+#farmersdelight:horse_feed_users
+- minecraft:horse
+- minecraft:skeleton_horse
+- minecraft:zombie_horse
+- minecraft:donkey
+- minecraft:mule
+- minecraft:llama
+
+#twm:3xp
+- minecraft:axolotl
+- minecraft:cat
+- minecraft:chicken
+- minecraft:cod
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:glow_squid
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:parrot
+- minecraft:pig
+- minecraft:pufferfish
+- minecraft:rabbit
+- minecraft:salmon
+- minecraft:sheep
+- minecraft:squid
+- minecraft:strider
+- minecraft:skeleton_horse
+- minecraft:tropical_fish
+- minecraft:turtle
+- minecraft:zombie_horse
+- minecraft:bee
+- minecraft:dolphin
+- minecraft:goat
+- minecraft:llama
+- minecraft:panda
+- minecraft:polar_bear
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:endermite
+- minecraft:slime
+- minecraft:magma_cube
+- twm:frog
+
+#exdel:mystery_arrow/transformable
+- minecraft:villager
+- minecraft:zombie
+- minecraft:pig
+- minecraft:sheep
+- minecraft:cow
+- minecraft:chicken
+- minecraft:ocelot
+- minecraft:wolf
+- minecraft:llama
+- minecraft:horse
+- minecraft:hoglin
+- minecraft:piglin
+- #minecraft:skeletons
+- #minecraft:raiders
+- minecraft:bee
+- minecraft:axolotl
+- minecraft:bat
+- minecraft:blaze
+- minecraft:cave_spider
+- minecraft:dolphin
+- minecraft:donkey
+- minecraft:drowned
+- minecraft:elder_guardian
+- minecraft:guardian
+- minecraft:enderman
+- minecraft:endermite
+- minecraft:silverfish
+- minecraft:fox
+- minecraft:ghast
+- minecraft:squid
+- minecraft:husk
+- minecraft:iron_golem
+- minecraft:magma_cube
+- minecraft:slime
+- minecraft:mule
+- minecraft:mooshroom
+- minecraft:panda
+- minecraft:parrot
+- minecraft:phantom
+- minecraft:polar_bear
+- minecraft:tnt
+- minecraft:ravager
+- minecraft:rabbit
+- minecraft:shulker
+- minecraft:snow_golem
+- minecraft:spider
+- minecraft:stray
+- minecraft:strider
+- minecraft:turtle
+- minecraft:vex
+- minecraft:witch
+- minecraft:wandering_trader
+- minecraft:zombified_piglin
+- minecraft:zombie_horse
+
+#requiem:inventory/armor_users
+- ratsmischief:rat
+
+#goblintraders:goblin_traders
+- goblintraders:goblin_trader
+- goblintraders:vein_goblin_trader
+- endgoblintraders:end_goblin_trader?
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+- biomemakeover:adjudicator
+- earthtojavamobs:viler_witch
+
+#minecraft:axolotl_hunt_targets
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:cod
+- minecraft:squid
+- minecraft:glow_squid
+- biomemakeover:glowfish
+
+#the_aether:swet_transformers/blue
+
+#requiem:inventory/armor_banned
+- #goblintraders:goblin_traders
+
+#starmute:sentry_targets
+- minecraft:player
+- minecraft:armor_stand
+
+#archon:players
+- minecraft:player
+
+#requiem:humans
+- bewitchment:vampire
+- bewitchment:werewolf
+
+#twm:100xp
+- minecraft:ender_dragon
+
+#twm:20xp
+- minecraft:ravager
+- minecraft:piglin_brute
+
+#archon:creatures
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- minecraft:goat
+- minecraft:dolphin
+- minecraft:glow_squid
+- minecraft:axolotl
+- minecraft:bat
+- minecraft:mooshroom
+- minecraft:strider
+- minecraft:bee
+- minecraft:polar_bear
+
+#haema:poor_blood_sources
+- minecraft:zombie
+- minecraft:creeper
+- minecraft:spider
+
+#the_aether:swet_transformers/transformers
+- #the_aether:swet_transformers/blue
+- #the_aether:swet_transformers/golden
+- #the_aether:swet_transformers/purple
+- #the_aether:swet_transformers/vermilion
+
+#dml-refabricated:skeleton_mobs
+- minecraft:skeleton
+- minecraft:wither_skeleton
+- minecraft:stray
+
+#requiem:inventory/item_users
+- #goblintraders:goblin_traders
+- ratsmischief:rat
+
+#exdel:mystery_arrow/ageable
+- minecraft:villager
+- minecraft:zombie
+- minecraft:pig
+- minecraft:sheep
+- minecraft:cow
+- minecraft:chicken
+- minecraft:ocelot
+- minecraft:wolf
+- minecraft:llama
+- minecraft:horse
+- minecraft:hoglin
+- minecraft:piglin
+
+#lunade:entity_event_listeners
+- twm:warden
+
+#the_aether:swet_transformers/golden
+
+#bewitchment:encounter_fortune
+- minecraft:husk
+- minecraft:stray
+- minecraft:witch
+- minecraft:vindicator
+- minecraft:blaze
+- bewitchment:hellhound
+
+#starmute:mobs_no_player
+- minecraft:bat
+- minecraft:chicken
+- minecraft:cod
+- minecraft:cow
+- minecraft:donkey
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:mule
+- minecraft:ocelot
+- minecraft:panda
+- minecraft:parrot
+- minecraft:pig
+- minecraft:rabbit
+- minecraft:sheep
+- minecraft:skeleton_horse
+- minecraft:salmon
+- minecraft:squid
+- minecraft:strider
+- minecraft:turtle
+- minecraft:tropical_fish
+- minecraft:villager
+- minecraft:wandering_trader
+- minecraft:bee
+- minecraft:dolphin
+- minecraft:polar_bear
+- minecraft:wolf
+- minecraft:cave_spider
+- minecraft:enderman
+- minecraft:iron_golem
+- minecraft:spider
+- minecraft:zombified_piglin
+- minecraft:llama
+- minecraft:trader_llama
+- minecraft:pufferfish
+- minecraft:blaze
+- minecraft:creeper
+- minecraft:drowned
+- minecraft:elder_guardian
+- minecraft:ender_dragon
+- minecraft:evoker
+- minecraft:ghast
+- minecraft:guardian
+- minecraft:hoglin
+- minecraft:husk
+- minecraft:magma_cube
+- minecraft:phantom
+- minecraft:piglin
+- minecraft:piglin_brute
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:shulker
+- minecraft:silverfish
+- minecraft:skeleton
+- minecraft:slime
+- minecraft:stray
+- minecraft:vex
+- minecraft:vindicator
+- minecraft:witch
+- minecraft:wither
+- minecraft:wither_skeleton
+- minecraft:zoglin
+- minecraft:zombie
+- minecraft:zombie_villager
+
+#minecraft:freeze_hurts_extra_types
+- minecraft:strider
+- minecraft:blaze
+- minecraft:magma_cube
+- adventurez:stone_golem
+- adventurez:small_stone_golem
+
+#bewitchment:insanity_blacklist
+- minecraft:creeper
+- minecraft:witch
+- minecraft:ravager
+
+#the_aether:swet_transformers/vermilion
+- minecraft:magma_cube
+
+#the_aether:swets
+- the_aether:white_swet
+- the_aether:blue_swet
+- the_aether:purple_swet
+- the_aether:golden_swet
+
+#the_aether:swet_transformers/purple
+- the_aether:cockatrice
+- the_aether:aechor_plant
+
+#bewitchment:has_blood
+- minecraft:player
+- minecraft:villager
+- minecraft:wandering_trader
+- minecraft:witch
+- minecraft:pillager
+- minecraft:vindicator
+- minecraft:evoker
+- minecraft:illusioner
+- minecraft:piglin
+- minecraft:piglin_brute
+- bewitchment:vampire
+
+#dml-refabricated:ghost_mobs
+- minecraft:ghast
+- minecraft:phantom
+- minecraft:vex

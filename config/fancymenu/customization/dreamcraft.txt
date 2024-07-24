@@ -1,0 +1,72 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = config/drippyloadingscreen/bh_background.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  original_pos_size_calculation = true
+  x = 210
+  width = 540
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = a0e1dd5a-3631-427d-89b0-43175e5283bb1703526115301
+  y = 203
+  height = 134
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = b8a92981-e8aa-4c77-998c-cb146545f9651703526115303
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = #7e0cc9
+  orientation = top-left
+  hidden = false
+  original_pos_size_calculation = true
+  x = 210
+  width = 540
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 3af23bb1-d0f2-4251-a538-bac5ea80d1a61703526115303
+  y = 444
+  height = 10
+}
+
+customization {
+  path = config/drippyloadingscreen/logofabricnostars.png
+  orientation = mid-centered
+  x = -263
+  width = 527
+  action = addtexture
+  actionid = d594976c-caec-48ce-bac4-00fd1cd29ba61703526187456
+  y = -202
+  height = 397
+}
+

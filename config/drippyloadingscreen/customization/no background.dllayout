@@ -1,0 +1,49 @@
+type = hud
+
+customization-meta {
+  randomgroup = 1
+  keepaspectratio = false
+  backgroundimage = config/drippyloadingscreen/bh_background2.png
+  renderorder = background
+  randommode = false
+  scale = 2
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = editprogressbar
+  y = -128
+  barcolor = 
+}
+
+customization {
+  visible = false
+  action = editlogo
+}
+
+customization {
+  path = config/drippyloadingscreen/logofabricnostars.png
+  orientation = top-centered
+  x = 13
+  width = 454
+  action = addtexture
+  actionid = 32ebcc87-bb9b-4632-b9cb-10c56606ce981659692158239
+  y = 82
+  height = 342
+}
+
+customization {
+  orientation = top-left
+  basecolor = #ffff00
+  shadow = true
+  rotation = 0.0
+  x = 885
+  actionid = 8f703f78-555a-411e-a4d5-7bf494923daf1659692360156
+  action = addsplash
+  y = 519
+  scale = 0.8
+  refresh = false
+  text = Made by Kasax
+  bouncing = true
+}
+
