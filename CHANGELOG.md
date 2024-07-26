@@ -8,3 +8,8 @@ Total Mods: TODO
 **Changes**
 
 - Initial release
+- Adjust some config for optimization
+
+**Removed Mod**
+
+- MemorySettings

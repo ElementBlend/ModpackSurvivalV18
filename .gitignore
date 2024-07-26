@@ -22,6 +22,8 @@
 /config/splash.properties
 /config/time.history
 /config/tinker_ore_dict_melting_cache.dat
+/config/voicechat/username-cache.json
+/config/worldedit/.archive-unpack/
 /craftpresence/
 /crash-reports/
 /data/
@@ -36,6 +38,7 @@
 /mods/*
 !/mods/*.rar
 !/mods/*.md
+/modernfix/structureCacheV1/
 /mputils/
 /mystcraft/
 /prestige/
@@ -50,6 +53,8 @@
 /twitchcrumbs-cache/
 /vintagefix/
 /voxelmap/cache/
+/XaeroWaypoints/
+/XaeroWorldMap/
 .curseclient
 .ReAuth.cfg
 betterfps.txt
@@ -57,6 +62,7 @@ BotaniaVars.dat
 chooser_0.png
 crafttweaker.log
 customfov.txt
+deaths.dat
 ds_private_storage.json
 enigmatic_persistence.dat
 hei_bookmarks.ini
@@ -67,6 +73,7 @@ minecraftinstance.json
 minetweaker.log
 mobs_0.png
 mtservers.dat
+observable_announce
 o_prof
 OpenComputersMod-1.7.5.192-lua52-native.64.dll
 OpenComputersMod-1.7.5.192-lua53-native.64.dll
