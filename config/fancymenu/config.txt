@@ -32,7 +32,7 @@ S:customgameintroskiptext = '';
 ##[minecraftwindow]
 
 [A minecraft restart is required after changing this value.]
-S:customwindowtitle = 'Dreamcraft';
+S:customwindowtitle = 'Dreamcraft (MMS Edition v18)';
 [A minecraft restart is required after changing this value.]
 B:customwindowicon = 'true';
 

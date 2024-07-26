@@ -24,11 +24,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }
@@ -111,17 +106,6 @@ customization {
 customization {
   orientation = top-left
   hidden = true
-  x = 2
-  width = 165
-  action = deep_customization_element:title_screen_branding
-  actionid = 087f8c1f-672b-47cc-8128-85d7fe36c3421703524849189
-  y = 528
-  height = 10
-}
-
-customization {
-  orientation = top-left
-  hidden = true
   x = 583
   width = 13
   action = deep_customization_element:title_screen_realms_notification
@@ -155,6 +139,17 @@ customization {
 }
 
 customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 165
+  action = deep_customization_element:title_screen_branding
+  actionid = faad8303-34bc-4078-8cd3-1052e4beac2e1722011333657
+  y = 673
+  height = 10
+}
+
+customization {
   path = fancymenu_data/bh_logo.png
   orientation = mid-centered
   x = -176
@@ -166,84 +161,103 @@ customization {
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_singleplayer_button%btnaction_splitter_fm%
   backgroundhovered = fancymenu_data/bh_single_hover.png
   label = 
   loopbackgroundanimations = true
-  x = 388
+  x = -92
   width = 170
   action = addbutton
   actionid = 2b1108e7-10b8-4c71-8875-db687f4c33471703525162868
-  y = 220
+  y = -62
   backgroundnormal = fancymenu_data/bh_single.png
   height = 34
 }
 
 customization {
   advanced_height = 34
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_multiplayer_button%btnaction_splitter_fm%
   backgroundhovered = fancymenu_data/bh_multi_hover.png
   label = 
   advanced_width = 170
   loopbackgroundanimations = true
-  x = 388
+  x = -92
   width = 170
   action = addbutton
   actionid = ca1a0077-7dc3-42a8-a8ca-32d047b5544e1703525356007
-  y = 260
+  y = -22
   backgroundnormal = fancymenu_data/bh_multi.png
   height = 34
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_options_button%btnaction_splitter_fm%
   backgroundhovered = fancymenu_data/bh_options_hover.png
   label = 
   loopbackgroundanimations = true
-  x = 388
+  x = -92
   width = 170
   action = addbutton
   actionid = 5f9577d5-a6af-44a5-bf06-0a71e00f185b1703525506744
-  y = 300
+  y = 18
   backgroundnormal = fancymenu_data/bh_options.png
   height = 34
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = mimicbutton;net.minecraft.class_442:button_compatibility_id:mc_titlescreen_quit_button%btnaction_splitter_fm%
   backgroundhovered = fancymenu_data/bh_quit_hover.png
   label = 
   loopbackgroundanimations = true
-  x = 388
+  x = -92
   width = 170
   action = addbutton
   actionid = d5c1871f-324c-42d9-a94c-745ed3f196211703525565453
-  y = 415
+  y = 133
   backgroundnormal = fancymenu_data/bh_quit.png
   height = 34
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   restartbackgroundanimations = true
   buttonaction = openlink;https://bisecthosting.com/kasax007%btnaction_splitter_fm%
   backgroundhovered = fancymenu_data/bh_rent_hover.png
   label = 
   loopbackgroundanimations = true
-  x = 388
+  x = -92
   width = 170
   action = addbutton
   actionid = 74d64443-aaa7-4bf3-860a-12e8d96e8ebc1703525615567
-  y = 340
+  y = 58
   backgroundnormal = fancymenu_data/bh_rent.png
   height = 34
 }
 
+customization {
+  advanced_height = 10
+  orientation = bottom-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = MMS V18.0
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 1
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 2ba2c82d-fc61-4992-a3ee-d64b1fd612471722011352111
+  y = -22
+  alignment = left
+  height = 10
+}

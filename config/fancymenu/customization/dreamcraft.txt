@@ -69,4 +69,3 @@ customization {
   y = -202
   height = 397
 }
-
