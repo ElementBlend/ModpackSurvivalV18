@@ -1,4 +1,5 @@
 module_interval: 6
 vertical_layer_interval: 6
 horizontal_layer_interval: 6
+reborn_energy_conversion_rate: 1.0
 
