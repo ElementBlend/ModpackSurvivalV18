@@ -1,6 +1,6 @@
 # Modpack Survival V18 Changelog
 
-## 18.0 Alpha
+## 18.0
 
 Fabric Version: 1.20.1-0.15.11  
 Total Mods: 268
@@ -92,7 +92,7 @@ Total Mods: 268
 - Yet Another Config Lib
 - Zoomify
 
-**Removed Mod**
+**Removed Mods**
 
 - Memory Settings
 - Simple Voice Chat
