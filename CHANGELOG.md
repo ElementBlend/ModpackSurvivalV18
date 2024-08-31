@@ -9,6 +9,12 @@ Total Mods: xxx
 
 - xxx
 
+**Added Mods**
+
+- Carryon
+- Gravestones
+- Light Overlay
+
 **Updated Mods**
 
 - All outdated mods
