@@ -1,5 +1,25 @@
 # Modpack Survival V18 Changelog
 
+## 18.1
+
+Fabric Version: 1.20.1-0.16.3  
+Total Mods: xxx
+
+**Changes**
+
+- xxx
+
+**Updated Mods**
+
+- All outdated mods
+
+**Removed Mods**
+
+- Better Combat
+- Immersive Melodies
+- Lucky Block
+- Melody
+
 ## 18.0
 
 Fabric Version: 1.20.1-0.15.11  

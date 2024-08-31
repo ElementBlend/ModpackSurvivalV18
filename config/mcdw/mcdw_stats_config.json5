@@ -2,6 +2,7 @@
 	// Can use the following tags as repair ingredient -- minecraft:planks, minecraft:stone_crafting_materials. Other tags do not work.
 	"swordStats": {
 		"SWORD_BEESTINGER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 0,
 			"attackSpeed": -1.100000023841858,
@@ -10,6 +11,7 @@
 			]
 		},
 		"SWORD_BROADSWORD": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -3.0,
@@ -18,6 +20,7 @@
 			]
 		},
 		"SWORD_BROKEN_SAWBLADE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -26,6 +29,7 @@
 			]
 		},
 		"SWORD_CLAYMORE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 7,
 			"attackSpeed": -3.200000047683716,
@@ -34,6 +38,7 @@
 			]
 		},
 		"SWORD_CORAL_BLADE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -42,6 +47,7 @@
 			]
 		},
 		"SWORD_CUTLASS": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 2,
 			"attackSpeed": -2.299999952316284,
@@ -50,6 +56,7 @@
 			]
 		},
 		"SWORD_DANCERS_SWORD": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 3,
 			"attackSpeed": -2.0,
@@ -58,6 +65,7 @@
 			]
 		},
 		"SWORD_DARK_KATANA": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -66,6 +74,7 @@
 			]
 		},
 		"SWORD_DIAMOND_SWORD_VAR": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -74,6 +83,7 @@
 			]
 		},
 		"SWORD_FREEZING_FOIL": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -1.100000023841858,
@@ -82,6 +92,7 @@
 			]
 		},
 		"SWORD_FROST_SLAYER": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 6,
 			"attackSpeed": -3.200000047683716,
@@ -90,6 +101,7 @@
 			]
 		},
 		"SWORD_GREAT_AXEBLADE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 7,
 			"attackSpeed": -3.200000047683716,
@@ -98,6 +110,7 @@
 			]
 		},
 		"SWORD_HAWKBRAND": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -2.9000000953674316,
@@ -106,6 +119,7 @@
 			]
 		},
 		"SWORD_HEARTSTEALER": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 6,
 			"attackSpeed": -3.200000047683716,
@@ -114,6 +128,7 @@
 			]
 		},
 		"SWORD_IRON_SWORD_VAR": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -122,6 +137,7 @@
 			]
 		},
 		"SWORD_KATANA": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -130,6 +146,7 @@
 			]
 		},
 		"SWORD_MASTERS_KATANA": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -138,6 +155,7 @@
 			]
 		},
 		"SWORD_MECHANIZED_SAWBLADE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -146,6 +164,7 @@
 			]
 		},
 		"SWORD_NAMELESS_BLADE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 4,
 			"attackSpeed": -2.299999952316284,
@@ -154,6 +173,7 @@
 			]
 		},
 		"SWORD_OBSIDIAN_CLAYMORE": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 6,
 			"attackSpeed": -3.299999952316284,
@@ -162,6 +182,7 @@
 			]
 		},
 		"SWORD_RAPIER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 0,
 			"attackSpeed": -1.1399999856948853,
@@ -170,6 +191,7 @@
 			]
 		},
 		"SWORD_SINISTER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -2.9000000953674316,
@@ -178,6 +200,7 @@
 			]
 		},
 		"SWORD_SPONGE_STRIKER": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 3,
 			"attackSpeed": -2.4000000953674316,
@@ -186,6 +209,7 @@
 			]
 		},
 		"SWORD_THE_STARLESS_NIGHT": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 6,
 			"attackSpeed": -3.299999952316284,
@@ -196,6 +220,7 @@
 	},
 	"axeStats": {
 		"AXE_ANCHOR": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 8,
 			"attackSpeed": -3.4000000953674316,
@@ -204,6 +229,7 @@
 			]
 		},
 		"AXE_AXE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -3.0999999046325684,
@@ -212,6 +238,7 @@
 			]
 		},
 		"AXE_ENCRUSTED_ANCHOR": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 8,
 			"attackSpeed": -3.4000000953674316,
@@ -220,6 +247,7 @@
 			]
 		},
 		"AXE_FIREBRAND": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -228,6 +256,7 @@
 			]
 		},
 		"AXE_HIGHLAND": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -238,6 +267,7 @@
 	},
 	"doubleAxeStats": {
 		"DOUBLE_AXE_CURSED": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 7,
 			"attackSpeed": -2.9000000953674316,
@@ -246,6 +276,7 @@
 			]
 		},
 		"DOUBLE_AXE_DOUBLE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -2.9000000953674316,
@@ -254,6 +285,7 @@
 			]
 		},
 		"DOUBLE_AXE_WHIRLWIND": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -2.9000000953674316,
@@ -264,6 +296,7 @@
 	},
 	"daggerStats": {
 		"DAGGER_BACKSTABBER": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -1.7000000476837158,
@@ -272,6 +305,7 @@
 			]
 		},
 		"DAGGER_CHILL_GALE_KNIFE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 2,
 			"attackSpeed": -2.200000047683716,
@@ -280,6 +314,7 @@
 			]
 		},
 		"DAGGER_DAGGER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -1.5,
@@ -288,6 +323,7 @@
 			]
 		},
 		"DAGGER_FANGS_OF_FROST": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -1.5,
@@ -296,6 +332,7 @@
 			]
 		},
 		"DAGGER_MOON": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -1.5,
@@ -304,6 +341,7 @@
 			]
 		},
 		"DAGGER_RESOLUTE_TEMPEST_KNIFE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 2,
 			"attackSpeed": -2.200000047683716,
@@ -312,6 +350,7 @@
 			]
 		},
 		"DAGGER_SHEAR_DAGGER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 0,
 			"attackSpeed": -1.5,
@@ -320,6 +359,7 @@
 			]
 		},
 		"DAGGER_SWIFT_STRIKER": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 1,
 			"attackSpeed": -1.7000000476837158,
@@ -328,6 +368,7 @@
 			]
 		},
 		"DAGGER_TEMPEST_KNIFE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 2,
 			"attackSpeed": -2.200000047683716,
@@ -336,6 +377,7 @@
 			]
 		},
 		"DAGGER_THE_BEGINNING": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 1,
 			"attackSpeed": -1.7999999523162842,
@@ -344,6 +386,7 @@
 			]
 		},
 		"DAGGER_THE_END": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 1,
 			"attackSpeed": -1.7999999523162842,
@@ -352,6 +395,7 @@
 			]
 		},
 		"DAGGER_VOID_TOUCHED_BLADE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -1.7999999523162842,
@@ -362,6 +406,7 @@
 	},
 	"soulDaggerStats": {
 		"SOUL_DAGGER_ETERNAL_KNIFE": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 4,
 			"attackSpeed": -2.799999952316284,
@@ -370,6 +415,7 @@
 			]
 		},
 		"SOUL_DAGGER_SOUL_KNIFE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 4,
 			"attackSpeed": -2.799999952316284,
@@ -378,6 +424,7 @@
 			]
 		},
 		"SOUL_DAGGER_TRUTHSEEKER": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 3,
 			"attackSpeed": -2.799999952316284,
@@ -388,6 +435,7 @@
 	},
 	"hammerStats": {
 		"HAMMER_BONECLUB": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 7,
 			"attackSpeed": -3.200000047683716,
@@ -396,6 +444,7 @@
 			]
 		},
 		"HAMMER_BONE_CUDGEL": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 7,
 			"attackSpeed": -3.200000047683716,
@@ -404,6 +453,7 @@
 			]
 		},
 		"HAMMER_FLAIL": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -2.799999952316284,
@@ -412,6 +462,7 @@
 			]
 		},
 		"HAMMER_GRAVITY": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 6,
 			"attackSpeed": -3.200000047683716,
@@ -420,6 +471,7 @@
 			]
 		},
 		"HAMMER_GREAT_HAMMER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -3.200000047683716,
@@ -428,6 +480,7 @@
 			]
 		},
 		"HAMMER_MACE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -2.799999952316284,
@@ -436,6 +489,7 @@
 			]
 		},
 		"HAMMER_STORMLANDER": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 7,
 			"attackSpeed": -3.200000047683716,
@@ -444,6 +498,7 @@
 			]
 		},
 		"HAMMER_SUNS_GRACE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 4,
 			"attackSpeed": -2.799999952316284,
@@ -454,6 +509,7 @@
 	},
 	"gauntletStats": {
 		"GAUNTLET_GAUNTLET": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 0,
 			"attackSpeed": -1.5,
@@ -462,6 +518,7 @@
 			]
 		},
 		"GAUNTLET_MAULERS": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -1.5,
@@ -470,6 +527,7 @@
 			]
 		},
 		"GAUNTLET_SOUL_FISTS": {
+			"isEnabled": true,
 			"material": "netherite",
 			"damage": 0,
 			"attackSpeed": -1.5,
@@ -480,6 +538,7 @@
 	},
 	"sickleStats": {
 		"SICKLE_LAST_LAUGH_GOLD": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 2,
 			"attackSpeed": -2.0999999046325684,
@@ -488,6 +547,7 @@
 			]
 		},
 		"SICKLE_LAST_LAUGH_SILVER": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 2,
 			"attackSpeed": -2.0999999046325684,
@@ -496,6 +556,7 @@
 			]
 		},
 		"SICKLE_NIGHTMARES_BITE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 2,
 			"attackSpeed": -2.0999999046325684,
@@ -504,6 +565,7 @@
 			]
 		},
 		"SICKLE_SICKLE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -2.0999999046325684,
@@ -514,6 +576,7 @@
 	},
 	"scytheStats": {
 		"SCYTHE_FROST_SCYTHE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -522,6 +585,7 @@
 			]
 		},
 		"SCYTHE_JAILORS_SCYTHE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -530,6 +594,7 @@
 			]
 		},
 		"SCYTHE_SKULL_SCYTHE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 4,
 			"attackSpeed": -2.9000000953674316,
@@ -538,6 +603,7 @@
 			]
 		},
 		"SCYTHE_SOUL_SCYTHE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 3,
 			"attackSpeed": -2.9000000953674316,
@@ -548,6 +614,7 @@
 	},
 	"pickStats": {
 		"PICK_DIAMOND_PICKAXE_VAR": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -2.799999952316284,
@@ -556,6 +623,7 @@
 			]
 		},
 		"PICK_HAILING_PINNACLE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"damage": 1,
 			"attackSpeed": -2.799999952316284,
@@ -564,6 +632,7 @@
 			]
 		},
 		"PICK_HOWLING_PICK": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -2.799999952316284,
@@ -572,6 +641,7 @@
 			]
 		},
 		"PICK_MOUNTAINEER_PICK": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 1,
 			"attackSpeed": -2.799999952316284,
@@ -584,6 +654,7 @@
 	"extraAttackReachOfGlaives": 1.0,
 	"glaiveStats": {
 		"GLAIVE_CACKLING_BROOM": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -3.0,
@@ -592,6 +663,7 @@
 			]
 		},
 		"GLAIVE_GLAIVE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -3.0,
@@ -600,6 +672,7 @@
 			]
 		},
 		"GLAIVE_GRAVE_BANE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -3.0,
@@ -608,6 +681,7 @@
 			]
 		},
 		"GLAIVE_VENOM_GLAIVE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 6,
 			"attackSpeed": -3.0,
@@ -620,6 +694,7 @@
 	"extraAttackReachOfSpears": 1.0,
 	"spearStats": {
 		"SPEAR_SPEAR": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 4,
 			"attackSpeed": -2.5,
@@ -628,6 +703,7 @@
 			]
 		},
 		"SPEAR_WHISPERING_SPEAR": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -2.5,
@@ -636,6 +712,7 @@
 			]
 		},
 		"SPEAR_FORTUNE": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -2.5,
@@ -648,6 +725,7 @@
 	"extraAttackReachOfStaves": 1.0,
 	"staffStats": {
 		"STAFF_BATTLESTAFF": {
+			"isEnabled": true,
 			"material": "wood",
 			"damage": 2,
 			"attackSpeed": -2.5999999046325684,
@@ -656,6 +734,7 @@
 			]
 		},
 		"STAFF_BATTLESTAFF_OF_TERROR": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -2.5999999046325684,
@@ -664,6 +743,7 @@
 			]
 		},
 		"STAFF_GROWING_STAFF": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -2.5999999046325684,
@@ -676,6 +756,7 @@
 	"extraAttackReachOfWhips": 1.5,
 	"whipStats": {
 		"WHIP_VINE_WHIP": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 5,
 			"attackSpeed": -3.0999999046325684,
@@ -684,6 +765,7 @@
 			]
 		},
 		"WHIP_WHIP": {
+			"isEnabled": true,
 			"material": "iron",
 			"damage": 3,
 			"attackSpeed": -3.0999999046325684,
@@ -694,6 +776,7 @@
 	},
 	"bowStats": {
 		"BOW_ANCIENT_BOW": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 14,
@@ -703,6 +786,7 @@
 			]
 		},
 		"BOW_BONEBOW": {
+			"isEnabled": true,
 			"material": "stone",
 			"projectileDamage": 0.0,
 			"drawSpeed": 16,
@@ -712,6 +796,7 @@
 			]
 		},
 		"BOW_BUBBLE_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -721,6 +806,7 @@
 			]
 		},
 		"BOW_BUBBLE_BURSTER": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -730,6 +816,7 @@
 			]
 		},
 		"BOW_BURST_GALE_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 12,
@@ -739,6 +826,7 @@
 			]
 		},
 		"BOW_CALL_OF_THE_VOID": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -748,6 +836,7 @@
 			]
 		},
 		"BOW_ECHO_OF_THE_VALLEY": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 11,
@@ -757,6 +846,7 @@
 			]
 		},
 		"BOW_ELITE_POWER_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 20,
@@ -766,6 +856,7 @@
 			]
 		},
 		"BOW_GREEN_MENACE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 17,
@@ -775,6 +866,7 @@
 			]
 		},
 		"BOW_HAUNTED_BOW": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 18,
@@ -784,6 +876,7 @@
 			]
 		},
 		"BOW_HUNTERS_PROMISE": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -793,6 +886,7 @@
 			]
 		},
 		"BOW_HUNTING_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 16,
@@ -802,6 +896,7 @@
 			]
 		},
 		"BOW_LOST_SOULS": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 12,
@@ -811,6 +906,7 @@
 			]
 		},
 		"BOW_MASTERS_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 17,
@@ -820,6 +916,7 @@
 			]
 		},
 		"BOW_NOCTURNAL_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 17,
@@ -829,6 +926,7 @@
 			]
 		},
 		"BOW_PHANTOM_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 20,
@@ -838,6 +936,7 @@
 			]
 		},
 		"BOW_PINK_SCOUNDREL": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 17,
@@ -847,6 +946,7 @@
 			]
 		},
 		"BOW_POWER_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 20,
@@ -856,6 +956,7 @@
 			]
 		},
 		"BOW_SABREWING": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 10,
@@ -865,6 +966,7 @@
 			]
 		},
 		"BOW_SHIVERING_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 14,
@@ -874,6 +976,7 @@
 			]
 		},
 		"BOW_SNOW_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 16,
@@ -883,6 +986,7 @@
 			]
 		},
 		"BOW_SOUL_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 14,
@@ -892,6 +996,7 @@
 			]
 		},
 		"BOW_TRICKBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 12,
@@ -901,6 +1006,7 @@
 			]
 		},
 		"BOW_TWIN_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 12,
@@ -910,6 +1016,7 @@
 			]
 		},
 		"BOW_TWISTING_VINE_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -919,6 +1026,7 @@
 			]
 		},
 		"BOW_VOID_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -928,6 +1036,7 @@
 			]
 		},
 		"BOW_WEB_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -937,6 +1046,7 @@
 			]
 		},
 		"BOW_WEEPING_VINE_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -946,6 +1056,7 @@
 			]
 		},
 		"BOW_WIND_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 11,
@@ -955,6 +1066,7 @@
 			]
 		},
 		"BOW_WINTERS_TOUCH": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 15,
@@ -966,6 +1078,7 @@
 	},
 	"shortbowStats": {
 		"BOW_LOVE_SPELL_BOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 9,
@@ -975,6 +1088,7 @@
 			]
 		},
 		"BOW_MECHANICAL_SHORTBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 9,
@@ -984,6 +1098,7 @@
 			]
 		},
 		"BOW_PURPLE_STORM": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 9,
@@ -993,6 +1108,7 @@
 			]
 		},
 		"BOW_SHORTBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 9,
@@ -1004,6 +1120,7 @@
 	},
 	"longbowStats": {
 		"BOW_GUARDIAN_BOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 30,
@@ -1013,6 +1130,7 @@
 			]
 		},
 		"BOW_LONGBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 25,
@@ -1022,6 +1140,7 @@
 			]
 		},
 		"BOW_RED_SNAKE": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 30,
@@ -1033,6 +1152,7 @@
 	},
 	"crossbowStats": {
 		"CROSSBOW_AUTO_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1042,6 +1162,7 @@
 			]
 		},
 		"CROSSBOW_AZURE_SEEKER": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1051,6 +1172,7 @@
 			]
 		},
 		"CROSSBOW_BABY_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 23,
@@ -1060,6 +1182,7 @@
 			]
 		},
 		"CROSSBOW_BURST_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1069,6 +1192,7 @@
 			]
 		},
 		"CROSSBOW_BUTTERFLY_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1078,6 +1202,7 @@
 			]
 		},
 		"CROSSBOW_COG_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1087,6 +1212,7 @@
 			]
 		},
 		"CROSSBOW_CORRUPTED_CROSSBOW": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 22,
@@ -1096,6 +1222,7 @@
 			]
 		},
 		"CROSSBOW_DOOM_CROSSBOW": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 26,
@@ -1105,6 +1232,7 @@
 			]
 		},
 		"CROSSBOW_DUAL_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 24,
@@ -1114,6 +1242,7 @@
 			]
 		},
 		"CROSSBOW_EXPLODING_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1123,6 +1252,7 @@
 			]
 		},
 		"CROSSBOW_FERAL_SOUL_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1132,6 +1262,7 @@
 			]
 		},
 		"CROSSBOW_FIREBOLT_THROWER": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1141,6 +1272,7 @@
 			]
 		},
 		"CROSSBOW_HARPOON_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1150,6 +1282,7 @@
 			]
 		},
 		"CROSSBOW_HARP_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1159,6 +1292,7 @@
 			]
 		},
 		"CROSSBOW_HEAVY_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1168,6 +1302,7 @@
 			]
 		},
 		"CROSSBOW_IMPLODING_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1177,6 +1312,7 @@
 			]
 		},
 		"CROSSBOW_LIGHTNING_HARP_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1186,6 +1322,7 @@
 			]
 		},
 		"CROSSBOW_NAUTICAL_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 24,
@@ -1195,6 +1332,7 @@
 			]
 		},
 		"CROSSBOW_PRIDE_OF_THE_PIGLINS": {
+			"isEnabled": true,
 			"material": "netherite",
 			"projectileDamage": 0.0,
 			"drawSpeed": 20,
@@ -1204,6 +1342,7 @@
 			]
 		},
 		"CROSSBOW_RAPID_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 20,
@@ -1213,6 +1352,7 @@
 			]
 		},
 		"CROSSBOW_SCATTER_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1222,6 +1362,7 @@
 			]
 		},
 		"CROSSBOW_SHADOW_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 25,
@@ -1231,6 +1372,7 @@
 			]
 		},
 		"CROSSBOW_SLAYER_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 26,
@@ -1240,6 +1382,7 @@
 			]
 		},
 		"CROSSBOW_SOUL_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1249,6 +1392,7 @@
 			]
 		},
 		"CROSSBOW_SOUL_HUNTER_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1258,6 +1402,7 @@
 			]
 		},
 		"CROSSBOW_SPELLBOUND_CROSSBOW": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1267,6 +1412,7 @@
 			]
 		},
 		"CROSSBOW_THE_SLICER": {
+			"isEnabled": true,
 			"material": "iron",
 			"projectileDamage": 0.0,
 			"drawSpeed": 28,
@@ -1276,6 +1422,7 @@
 			]
 		},
 		"CROSSBOW_VEILED_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 22,
@@ -1285,6 +1432,7 @@
 			]
 		},
 		"CROSSBOW_VOIDCALLER_CROSSBOW": {
+			"isEnabled": true,
 			"material": "diamond",
 			"projectileDamage": 0.0,
 			"drawSpeed": 26,
@@ -1296,6 +1444,7 @@
 	},
 	"shieldStats": {
 		"SHIELD_ROYAL_GUARD": {
+			"isEnabled": true,
 			"material": "diamond",
 			"repairIngredient": [
 				"minecraft:iron_ingot",
@@ -1303,6 +1452,7 @@
 			]
 		},
 		"SHIELD_TOWER_GUARD": {
+			"isEnabled": true,
 			"material": "diamond",
 			"repairIngredient": [
 				"minecraft:iron_ingot",
@@ -1311,6 +1461,7 @@
 			]
 		},
 		"SHIELD_VANGUARD": {
+			"isEnabled": true,
 			"material": "diamond",
 			"repairIngredient": [
 				"minecraft:planks",

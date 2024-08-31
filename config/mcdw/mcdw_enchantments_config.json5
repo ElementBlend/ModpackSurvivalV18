@@ -1,9 +1,39 @@
 {
-	/* A slider value for damage modifying enchantments:
+	/* 
+	   A slider value for damage modifying enchantments:
 	   Ambush, Critical Hit, Void Strike, Pain Cycle, Enigma Resonator, Dynamo, Shadow Form,
 	   Enigma Shot, Growing, Void Shot, Overcharge, Committed and Hunter's Promise.
 	*/
 	"directDamageEnchantmentMultiplier": 1.0,
+	/* 
+	   Some notes to make sense of the config, below:
+	   
+	   offset:     This is a value that is unique to certain enchantments. What it does will be
+	               explained in the "comment" section that is related to the enchantment.
+	   
+	   isEnabled:  Whether the enchantment is on or off. If set to "false", the enchantment
+	               will not be possible to obtain in any way.
+	   
+	   isAvailableForEnchantedBookOffer: Whether the enchantment can be sold by villagers.
+	               If set to "false", this means that Librarian villagers will not sell this
+	               enchantment.
+	   
+	   isAvailableForRandomSelection: Whether the enchantment can be found as random loot or
+	               obtained through the Enchanting Table. If set to "false", this means that the
+	               enchantment will not be available via the Enchanting Table nor will it
+	               generate as loot that is found in the world.
+	   
+	   maxLevel:   This is an integer (whole number) value that tells the game what the max
+	               level the enchantment can be. The value for most enchantments in Minecraft
+	               range from 1 to 5. Most MCDX enchantments are up to level 3 and whilst it
+	               is possible to set this value above 3, it can have some unexpected results.
+	   
+	   procChance: Some enchantments trigger on a chance. Whilst this number is not a percentage
+	               the higher the number, the more likely the enchantment is to trigger.
+	               Therefore, if the procChance is set to 20, it is more likely to trigger than
+	               if the procChance is set to 10. It is best to experiment with these values
+	               if you plan to change them to see what works best for you.
+	*/
 	"ENCHANTMENT_CONFIG": {
 		"ACCELERATE": {
 			"comment": null,
@@ -54,7 +84,7 @@
 			"maxLevel": 3,
 			"procChance": null
 		},
-		"BUZZY_BEE": {
+		"BUSY_BEE": {
 			"comment": null,
 			"offset": 0.0,
 			"isEnabled": true,
@@ -225,7 +255,7 @@
 			"maxLevel": 3,
 			"procChance": null
 		},
-		"POISONING": {
+		"JUNGLE_POISON": {
 			"comment": null,
 			"offset": 0.0,
 			"isEnabled": true,
