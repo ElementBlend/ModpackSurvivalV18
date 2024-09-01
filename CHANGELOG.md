@@ -9,7 +9,8 @@ Total Mods: xxx
 
 - Update fabric version to v0.16.3
 - Add some optimization mods for low-end pc
-- Replace death backup and death log with gravestones
+- Add back different tier croparia recipes
+- Replace death backup with gravestones
 - Remove Lucky Block as it is now incompatible
 - Improve gameplay experience by adding Carry On, Extended Drawers and Light overlay mods. As well as removing Better Combat and Immersive Melodies mods
 - Updated all outdated mods
@@ -60,8 +61,10 @@ Total Mods: xxx
 **Removed Mods**
 
 - Better Combat
-- Death Backup
+- Craft Tweaker
+- Create Tweaker
 - Death Log
+- Faux Custom Entity Data
 - Immersive Melodies
 - Lucky Block
 - Melody
