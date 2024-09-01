@@ -15,6 +15,8 @@ Total Mods: xxx
 - Improve gameplay experience by adding Carry On, Extended Drawers and Light overlay mods. As well as removing Better Combat and Immersive Melodies mods
 - Updated all outdated mods
 - Adjust some configs for optimization
+- Fix the bug that the in-game chat will also display the discord chat which is sent from the game (server-side)
+- Adjust it to skip the night when 50% of players sleep instead of 100% (server-side)
 
 **Added Mods**
 
