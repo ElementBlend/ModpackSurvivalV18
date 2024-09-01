@@ -11,13 +11,14 @@ Total Mods: xxx
 - Add some optimization mods for low-end pc
 - Replace death backup and death log with gravestones
 - Remove Lucky Block as it is now incompatible
-- Improve gameplay experience by adding Carry On and Light overlay mods. As well as removing Better Combat and Immersive Melodies mods
+- Improve gameplay experience by adding Carry On, Extended Drawers and Light overlay mods. As well as removing Better Combat and Immersive Melodies mods
 - Updated all outdated mods
 - Adjust some configs for optimization
 
 **Added Mods**
 
 - Carryon
+- Extended Drawers
 - Gravestones
 - Light Overlay
 - > Optimization mods:
