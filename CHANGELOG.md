@@ -3,7 +3,7 @@
 ## 18.1
 
 Fabric Version: 1.20.1-0.16.3  
-Total Mods: xxx
+Total Mods: 296
 
 **Changes**
 
