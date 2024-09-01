@@ -3,11 +3,11 @@
   "_lastMCVersionId": 763,
   "generalSettings": {
     "detectATLauncherInstance": false,
-    "detectCurseManifest": false,
+    "detectCurseManifest": true,
     "detectMultiMCManifest": false,
     "detectMCUpdaterInstance": false,
-    "detectTechnicPack": false,
-    "detectModrinthPack": false,
+    "detectTechnicPack": true,
+    "detectModrinthPack": true,
     "detectBiomeData": true,
     "detectDimensionData": true,
     "detectWorldData": true,
@@ -127,7 +127,7 @@
     "stripTranslationColors": false,
     "stripTranslationFormatting": false,
     "stripExtraGuiElements": false,
-    "configKeyCode": 96
+    "configKeyCode": -1
   },
   "displaySettings": {
     "presenceData": {
@@ -154,7 +154,8 @@
     "dynamicIcons": {
       "default": "https://via.placeholder.com/256.png",
       "localhost": "https://api.mcsrvstat.us/icon/localhost",
-      "SamLam140330": "https://mc-heads.net/avatar/3ca3e1330b0e4ffcb405da74a3e2f985"
+      "SamLam140330": "https://mc-heads.net/avatar/3ca3e1330b0e4ffcb405da74a3e2f985",
+      "mod.elementblend.com": "https://api.mcsrvstat.us/icon/mod.elementblend.com"
     },
     "dynamicVariables": {
       "default": "Example Text",

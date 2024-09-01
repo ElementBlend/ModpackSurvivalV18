@@ -7,13 +7,50 @@ Total Mods: xxx
 
 **Changes**
 
-- xxx
+- Update fabric version to v0.16.3
+- Add some optimization mods for low-end pc
+- Replace death backup and death log with gravestones
+- Remove Lucky Block as it is now incompatible
+- Improve gameplay experience by adding Carry On and Light overlay mods. As well as removing Better Combat and Immersive Melodies mods
+- Updated all outdated mods
+- Adjust some configs for optimization
 
 **Added Mods**
 
 - Carryon
 - Gravestones
 - Light Overlay
+- > Optimization mods:
+  - Better Chunk Loadingr
+  - Better fps dist
+  - Chunksending
+  - Client Crafting
+  - Clumps
+  - Connectivity
+  - Cull Less Leaves
+  - Debugify
+  - Fast Chest
+  - Fast Async World
+  - Ferrite Core
+  - Fps Reducer 2
+  - Fzzy Config
+  - Indium
+  - Krypton
+  - Limitedchunks
+  - Lithium
+  - Memoryleakfix
+  - Nether Portal Fix
+  - nnvf
+  - Particle Blocker
+  - Particle Core
+  - Recipe Essentials
+  - Reeses Sodium Options
+  - Server Core
+  - Smoke Suppression
+  - Smooth Chunk
+  - Sodium Extra
+  - Sodium
+  - Starlight
 
 **Updated Mods**
 
@@ -22,6 +59,8 @@ Total Mods: xxx
 **Removed Mods**
 
 - Better Combat
+- Death Backup
+- Death Log
 - Immersive Melodies
 - Lucky Block
 - Melody
