@@ -5,8 +5,8 @@ The official repository of Minecraft Modpack Survival V18 for our semi-private d
 ## Setup:
 
 Minecraft: 1.20.1  
-Fabric: 0.15.11  
-Ram: It recommends using at least 6GB
+Fabric: 0.16.3  
+Ram: It recommends using at least 8GB
 
 ## Change log:
 
