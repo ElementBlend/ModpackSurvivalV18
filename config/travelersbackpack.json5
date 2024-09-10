@@ -56,9 +56,13 @@
 		// Backpack immune to any damage source (lava, fire), can't be destroyed, never disappears as floating item
 		"invulnerableBackpack": true,
 		// List of items that can be put in tool slots (Use registry names, for example: minecraft:apple, minecraft:flint)
-		"toolSlotsAcceptableItems": [],
+		"toolSlotsAcceptableItems": [
+			""
+		],
 		// List of items that can't be put in backpack inventory (Use registry names, for example: minecraft:apple, minecraft:flint)
-		"blacklistedItems": [],
+		"blacklistedItems": [
+			""
+		],
 		// Tool slots accept any item
 		"toolSlotsAcceptEverything": false,
 		"allowShulkerBoxes": false,

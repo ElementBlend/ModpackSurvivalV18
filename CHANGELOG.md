@@ -1,5 +1,40 @@
 # Modpack Survival V18 Changelog
 
+## 18.2
+
+Fabric Version: 1.20.1-0.16.3  
+Total Mods: 295
+
+**Changes**
+
+- Fix Jade not enabled by default
+- Fix the UI bug on Botania
+- Fix a bug that causes the game to crash when the player opens the travel backpack with a crafting grid
+- Update some mods
+- Adjust some configs for optimization
+
+**Updated Mods**
+
+- Additional Structures
+- Artifacts
+- Azure Lib
+- Create Ore Excavation
+- Dynamic Fps
+- Farmers Delight
+- Fzzy Config
+- Mcpitan Lib
+- Minecells
+- Moonlight
+- Mythic Charms
+- Puzzles Lib
+- Roughly Enough Items
+- Smarter Farmers
+- Target Dummy
+
+**Removed Mod**
+
+- Recipe Essentials
+
 ## 18.1
 
 Fabric Version: 1.20.1-0.16.3  
