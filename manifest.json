@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Dreamcraft 1.20.1 (MMS V18)",
-  "version": "1.18.1",
+  "version": "1.18.2",
   "author": "SamLam140330",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 817423,
-      "fileID": 5546655,
+      "fileID": 5700757,
       "required": true
     },
     {
@@ -66,7 +66,7 @@
     },
     {
       "projectID": 923650,
-      "fileID": 5664184,
+      "fileID": 5705781,
       "required": true
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 225738,
-      "fileID": 5621040,
+      "fileID": 5700502,
       "required": true
     },
     {
@@ -166,7 +166,7 @@
     },
     {
       "projectID": 585782,
-      "fileID": 4754516,
+      "fileID": 5695656,
       "required": true
     },
     {
@@ -176,7 +176,7 @@
     },
     {
       "projectID": 682213,
-      "fileID": 5683054,
+      "fileID": 5700796,
       "required": true
     },
     {
@@ -380,6 +380,11 @@
       "required": true
     },
     {
+      "projectID": 616602,
+      "fileID": 5022286,
+      "required": true
+    },
+    {
       "projectID": 442509,
       "fileID": 5312088,
       "required": true
@@ -387,11 +392,6 @@
     {
       "projectID": 533006,
       "fileID": 5426907,
-      "required": true
-    },
-    {
-      "projectID": 239197,
-      "fileID": 5648764,
       "required": true
     },
     {
@@ -406,7 +406,7 @@
     },
     {
       "projectID": 1005914,
-      "fileID": 5663911,
+      "fileID": 5708265,
       "required": true
     },
     {
@@ -450,11 +450,6 @@
       "required": true
     },
     {
-      "projectID": 411571,
-      "fileID": 5572744,
-      "required": true
-    },
-    {
       "projectID": 508556,
       "fileID": 5152577,
       "required": true
@@ -467,11 +462,6 @@
     {
       "projectID": 351725,
       "fileID": 5240495,
-      "required": true
-    },
-    {
-      "projectID": 907856,
-      "fileID": 5581358,
       "required": true
     },
     {
@@ -596,12 +586,12 @@
     },
     {
       "projectID": 499980,
-      "fileID": 5666908,
+      "fileID": 5702360,
       "required": true
     },
     {
       "projectID": 312353,
-      "fileID": 5424363,
+      "fileID": 5693345,
       "required": true
     },
     {
@@ -925,11 +915,6 @@
       "required": true
     },
     {
-      "projectID": 437717,
-      "fileID": 5513160,
-      "required": true
-    },
-    {
       "projectID": 400929,
       "fileID": 4592973,
       "required": true
@@ -976,7 +961,7 @@
     },
     {
       "projectID": 618790,
-      "fileID": 5429097,
+      "fileID": 5698575,
       "required": true
     },
     {
@@ -996,7 +981,7 @@
     },
     {
       "projectID": 495476,
-      "fileID": 5666184,
+      "fileID": 5707406,
       "required": true
     },
     {
@@ -1046,7 +1031,7 @@
     },
     {
       "projectID": 335493,
-      "fileID": 5574084,
+      "fileID": 5704015,
       "required": true
     },
     {
@@ -1210,11 +1195,6 @@
       "required": true
     },
     {
-      "projectID": 575305,
-      "fileID": 4607750,
-      "required": true
-    },
-    {
       "projectID": 357718,
       "fileID": 4597709,
       "required": true
@@ -1251,7 +1231,7 @@
     },
     {
       "projectID": 649832,
-      "fileID": 5683245,
+      "fileID": 5695357,
       "required": true
     },
     {
@@ -1366,7 +1346,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 5627517,
+      "fileID": 5692788,
       "required": true
     },
     {
@@ -1446,7 +1426,7 @@
     },
     {
       "projectID": 993166,
-      "fileID": 5675938,
+      "fileID": 5684645,
       "required": true
     },
     {
@@ -1471,7 +1451,7 @@
     },
     {
       "projectID": 491290,
-      "fileID": 5637075,
+      "fileID": 5699534,
       "required": true
     },
     {
