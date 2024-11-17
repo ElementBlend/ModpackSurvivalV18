@@ -3,7 +3,7 @@
     "version": "1.20.1",
     "modLoaders": [
       {
-        "id": "fabric-0.16.3",
+        "id": "fabric-0.16.9",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Dreamcraft 1.20.1 (MMS V18)",
-  "version": "1.18.2",
+  "version": "1.18.3",
   "author": "SamLam140330",
   "files": [
     {
@@ -101,7 +101,7 @@
     },
     {
       "projectID": 225738,
-      "fileID": 5700502,
+      "fileID": 5742636,
       "required": true
     },
     {
@@ -136,7 +136,7 @@
     },
     {
       "projectID": 619718,
-      "fileID": 4719456,
+      "fileID": 5844813,
       "required": true
     },
     {
@@ -231,7 +231,7 @@
     },
     {
       "projectID": 854213,
-      "fileID": 5631919,
+      "fileID": 5724979,
       "required": true
     },
     {
@@ -256,7 +256,7 @@
     },
     {
       "projectID": 257814,
-      "fileID": 5568299,
+      "fileID": 5880311,
       "required": true
     },
     {
@@ -281,7 +281,7 @@
     },
     {
       "projectID": 324717,
-      "fileID": 5666690,
+      "fileID": 5771000,
       "required": true
     },
     {
@@ -351,7 +351,7 @@
     },
     {
       "projectID": 263420,
-      "fileID": 5637020,
+      "fileID": 5862237,
       "required": true
     },
     {
@@ -382,6 +382,11 @@
     {
       "projectID": 616602,
       "fileID": 5022286,
+      "required": true
+    },
+    {
+      "projectID": 916747,
+      "fileID": 5644696,
       "required": true
     },
     {
@@ -441,7 +446,7 @@
     },
     {
       "projectID": 738663,
-      "fileID": 4742681,
+      "fileID": 5759900,
       "required": true
     },
     {
@@ -571,7 +576,7 @@
     },
     {
       "projectID": 899487,
-      "fileID": 5393774,
+      "fileID": 5747087,
       "required": true
     },
     {
@@ -596,7 +601,7 @@
     },
     {
       "projectID": 470193,
-      "fileID": 5503114,
+      "fileID": 5728629,
       "required": true
     },
     {
@@ -681,7 +686,7 @@
     },
     {
       "projectID": 521480,
-      "fileID": 5647101,
+      "fileID": 5905497,
       "required": true
     },
     {
@@ -766,7 +771,7 @@
     },
     {
       "projectID": 254284,
-      "fileID": 5670555,
+      "fileID": 5844487,
       "required": true
     },
     {
@@ -791,7 +796,7 @@
     },
     {
       "projectID": 790626,
-      "fileID": 5676012,
+      "fileID": 5876358,
       "required": true
     },
     {
@@ -931,7 +936,7 @@
     },
     {
       "projectID": 686911,
-      "fileID": 5672336,
+      "fileID": 5894646,
       "required": true
     },
     {
@@ -1031,7 +1036,7 @@
     },
     {
       "projectID": 335493,
-      "fileID": 5704015,
+      "fileID": 5860773,
       "required": true
     },
     {
@@ -1121,7 +1126,7 @@
     },
     {
       "projectID": 448233,
-      "fileID": 5672090,
+      "fileID": 5866397,
       "required": true
     },
     {
@@ -1236,7 +1241,7 @@
     },
     {
       "projectID": 348521,
-      "fileID": 4973440,
+      "fileID": 5729104,
       "required": true
     },
     {
@@ -1276,12 +1281,12 @@
     },
     {
       "projectID": 582640,
-      "fileID": 5136724,
+      "fileID": 5723259,
       "required": true
     },
     {
       "projectID": 574741,
-      "fileID": 5439658,
+      "fileID": 5838122,
       "required": true
     },
     {
@@ -1346,7 +1351,7 @@
     },
     {
       "projectID": 310111,
-      "fileID": 5692788,
+      "fileID": 5846921,
       "required": true
     },
     {
@@ -1356,7 +1361,7 @@
     },
     {
       "projectID": 511770,
-      "fileID": 5139894,
+      "fileID": 5794101,
       "required": true
     },
     {

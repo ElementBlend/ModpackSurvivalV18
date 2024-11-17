@@ -225,7 +225,7 @@ element {
   enable_scrolling = true
   shadow = true
   scale = 1.0
-  source = MMS V18.2
+  source = MMS V18.3
   text_border = 0
   case_mode = normal
   source_mode = direct
