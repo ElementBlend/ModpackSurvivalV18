@@ -6,11 +6,7 @@
 	icon: "adventurez:handbook"
 	id: "00B53D69C635CCA9"
 	images: [{
-		click: ""
-		corner: false
-		dev: false
 		height: 9.0d
-		hover: [ ]
 		image: "questsicons:textures/item/logo_fabric.png"
 		rotation: 0.0d
 		width: 13.0d
@@ -42,7 +38,7 @@
 			rewards: [{
 				id: "7E2026F3F79C2A0C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "questsicons:quest_reward"
 					tag: {
 						Damage: 0
@@ -64,7 +60,7 @@
 		{
 			description: ["Vein mining is provided with an enchantment!"]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "minecraft:iron_pickaxe"
 				tag: {
 					Damage: 0
@@ -83,7 +79,7 @@
 		{
 			description: ["To play a quest chapter, you have to unlock it first in the Unlock Chapters section. In the same section, you can click a checkmark when you finished the chapter, to prove to the whole world you finished it :p"]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "questsicons:chapter_lock"
 				tag: { }
 			}
@@ -113,7 +109,7 @@
 		{
 			description: ["With FTB Teams, you can create teams that will have access to the same claimed chunks and a quest completed by someone from a team will be completed for the other members as well."]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ftbquests:custom_icon"
 				tag: {
 					Icon: "ftblibrary:textures/icons/friends.png"

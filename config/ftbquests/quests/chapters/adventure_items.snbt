@@ -15,7 +15,7 @@
 			tasks: [{
 				id: "0961A99FD4C00B8C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:slime_boots"
 					tag: {
 						Damage: 0
@@ -70,7 +70,7 @@
 			tasks: [{
 				id: "38768FD9EE41A74E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:white_glider"
 					tag: {
 						Damage: 0
@@ -101,7 +101,7 @@
 			tasks: [{
 				id: "007C539F8E028D5B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:magnet"
 					tag: { }
 				}
@@ -129,7 +129,7 @@
 			tasks: [{
 				id: "37557670848D329A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:escape_rope"
 					tag: {
 						Damage: 0
@@ -254,7 +254,7 @@
 			tasks: [{
 				id: "0631CBFBCCD9CA07"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "additionaladditions:pocket_jukebox"
 					tag: { }
 				}
@@ -270,7 +270,7 @@
 			tasks: [{
 				id: "42B1B1BE2A1F7642"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "additionaladditions:crossbow_with_spyglass"
 					tag: {
 						Damage: 0
@@ -390,7 +390,7 @@
 			tasks: [{
 				id: "6E147160F23E1D31"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:wooden_healing_staff"
 					tag: {
 						Damage: 0
@@ -407,7 +407,7 @@
 			tasks: [{
 				id: "425B4027BA27D3A2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:stone_healing_staff"
 					tag: {
 						Damage: 0
@@ -424,7 +424,7 @@
 			tasks: [{
 				id: "1B03551A445779D1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:iron_healing_staff"
 					tag: {
 						Damage: 0
@@ -442,7 +442,7 @@
 			tasks: [{
 				id: "5821F72931542757"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:golden_healing_staff"
 					tag: {
 						Damage: 0
@@ -459,7 +459,7 @@
 			tasks: [{
 				id: "67368B94FC4BECC0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:diamond_healing_staff"
 					tag: {
 						Damage: 0
@@ -476,7 +476,7 @@
 			tasks: [{
 				id: "0CAA75D547ADF4FE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:netherite_healing_staff"
 					tag: {
 						Damage: 0
@@ -493,7 +493,7 @@
 			tasks: [{
 				id: "2BF55A8CD82D9914"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:terminite_healing_staff"
 					tag: {
 						Damage: 0
@@ -510,7 +510,7 @@
 			tasks: [{
 				id: "78BF72ADC45BD079"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:aeternium_healing_staff"
 					tag: {
 						Damage: 0
@@ -527,7 +527,7 @@
 			tasks: [{
 				id: "18B9A4C86C2452AA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:nether_ruby_healing_staff"
 					tag: {
 						Damage: 0
@@ -544,7 +544,7 @@
 			tasks: [{
 				id: "39E117F51D4EB7BE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:cincinnasite_healing_staff"
 					tag: {
 						Damage: 0
@@ -561,7 +561,7 @@
 			tasks: [{
 				id: "071A25CAB1694795"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:cincinnasite_diamond_healing_staff"
 					tag: {
 						Damage: 0
@@ -578,7 +578,7 @@
 			tasks: [{
 				id: "06983EF745D06B0C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:dragon_healing_staff"
 					tag: {
 						Damage: 0
@@ -595,7 +595,7 @@
 			tasks: [{
 				id: "204A66F78BE3BE50"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:gilded_netherite_healing_staff"
 					tag: {
 						Damage: 0
@@ -612,7 +612,7 @@
 			tasks: [{
 				id: "711F46FAD5764CCB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "medievalweapons:rose_gold_healing_staff"
 					tag: {
 						Damage: 0
@@ -666,7 +666,7 @@
 			tasks: [{
 				id: "10D1F65C20AF650F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mythicmounts:summoning_staff"
 					tag: {
 						Id: [I;
@@ -687,6 +687,7 @@
 		}
 		{
 			dependencies: ["0E4DF4FC20773B34"]
+			hide: true
 			id: "5E501565E55F3907"
 			size: 1.5d
 			tasks: [{

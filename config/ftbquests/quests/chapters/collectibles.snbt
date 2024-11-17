@@ -477,7 +477,7 @@
 			tasks: [{
 				id: "63E49672AACA7BB3"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:harvester"
 					tag: {
 						Damage: 0
@@ -495,7 +495,7 @@
 			tasks: [{
 				id: "1B5F10BF8E5BB24C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:lightning_rod"
 					tag: {
 						Damage: 0
@@ -513,7 +513,7 @@
 			tasks: [{
 				id: "3C728B4AFCD95ED7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:updraft_tome"
 					tag: {
 						Damage: 0
@@ -531,7 +531,7 @@
 			tasks: [{
 				id: "3AA78D643964AA13"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:corrupted_seeds"
 					tag: {
 						Damage: 0
@@ -549,7 +549,7 @@
 			tasks: [{
 				id: "2A602AFB682A7212"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:gong_of_weakening"
 					tag: {
 						Damage: 0
@@ -567,7 +567,7 @@
 			tasks: [{
 				id: "0AC297A341138D40"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:love_medallion"
 					tag: {
 						Damage: 0
@@ -585,7 +585,7 @@
 			tasks: [{
 				id: "4823BB477996D83C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:satchel_of_elements"
 					tag: {
 						Damage: 0
@@ -603,7 +603,7 @@
 			tasks: [{
 				id: "2A8BC65C9BB1E1B0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:shock_powder"
 					tag: {
 						Damage: 0
@@ -621,7 +621,7 @@
 			tasks: [{
 				id: "2D918733B7777B75"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:flaming_quiver"
 					tag: {
 						Damage: 0
@@ -639,7 +639,7 @@
 			tasks: [{
 				id: "59769DB9D1EA8260"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:harpoon_quiver"
 					tag: {
 						Damage: 0
@@ -657,7 +657,7 @@
 			tasks: [{
 				id: "035AF61FC098C257"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:thundering_quiver"
 					tag: {
 						Damage: 0
@@ -675,7 +675,7 @@
 			tasks: [{
 				id: "6A77851C08B6A873"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:torment_quiver"
 					tag: {
 						Damage: 0
@@ -693,7 +693,7 @@
 			tasks: [{
 				id: "0627B519CADFF11B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:buzzy_nest"
 					tag: {
 						Damage: 0
@@ -711,7 +711,7 @@
 			tasks: [{
 				id: "406892EAC3F03544"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:enchanted_grass"
 					tag: {
 						Damage: 0
@@ -729,7 +729,7 @@
 			tasks: [{
 				id: "549166D21DE27096"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:golem_kit"
 					tag: {
 						Damage: 0
@@ -747,7 +747,7 @@
 			tasks: [{
 				id: "51A546798E47144D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:tasty_bone"
 					tag: {
 						Damage: 0
@@ -765,7 +765,7 @@
 			tasks: [{
 				id: "21F26A4FCD489B6C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:wonderful_wheat"
 					tag: {
 						Damage: 0
@@ -783,7 +783,7 @@
 			tasks: [{
 				id: "0649D4C3A7411342"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:boots_of_swiftness"
 					tag: {
 						Damage: 0
@@ -801,7 +801,7 @@
 			tasks: [{
 				id: "573CD4E57AD05D43"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:death_cap_mushroom"
 					tag: {
 						Damage: 0
@@ -819,7 +819,7 @@
 			tasks: [{
 				id: "49044E0E93DA926B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:ghost_cloak"
 					tag: {
 						Damage: 0
@@ -837,7 +837,7 @@
 			tasks: [{
 				id: "6FF60B39DB052A8F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:light_feather"
 					tag: {
 						Damage: 0
@@ -855,7 +855,7 @@
 			tasks: [{
 				id: "71A9CAD5D37E47F2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:enchanters_tome"
 					tag: {
 						Damage: 0
@@ -873,7 +873,7 @@
 			tasks: [{
 				id: "7000E8F72579E617"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:iron_hide_amulet"
 					tag: {
 						Damage: 0
@@ -891,7 +891,7 @@
 			tasks: [{
 				id: "7675918CE201E43E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:powershaker"
 					tag: {
 						Damage: 0
@@ -909,7 +909,7 @@
 			tasks: [{
 				id: "45F4DAF93E61A66A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:soul_healer"
 					tag: {
 						Damage: 0
@@ -927,7 +927,7 @@
 			tasks: [{
 				id: "1A5CE7752B5712AA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:totem_of_regeneration"
 					tag: {
 						Damage: 0
@@ -945,7 +945,7 @@
 			tasks: [{
 				id: "7C81C41D6B574324"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:totem_of_shielding"
 					tag: {
 						Damage: 0
@@ -963,7 +963,7 @@
 			tasks: [{
 				id: "61B4C5B3E552520B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:totem_of_soul_protection"
 					tag: {
 						Damage: 0
@@ -981,7 +981,7 @@
 			tasks: [{
 				id: "7AA42B71A167DEA5"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "mcdar:wind_horn"
 					tag: {
 						Damage: 0
@@ -1311,7 +1311,7 @@
 			tasks: [{
 				id: "19AB9A7843CB3D5A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "things:container_key"
 					tag: { }
 				}
@@ -1387,7 +1387,7 @@
 			tasks: [{
 				id: "49FD7890A992A5F4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "things:displacement_tome"
 					tag: {
 						Targets: { }
@@ -1441,7 +1441,7 @@
 			tasks: [{
 				id: "672BF38644BFB1B2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "things:infernal_scepter"
 					tag: {
 						Damage: 0
@@ -1531,7 +1531,7 @@
 			tasks: [{
 				id: "4911F74683A04BD0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "things:socks"
 					tag: { }
 				}
@@ -1595,7 +1595,7 @@
 			tasks: [{
 				id: "67CAA3EBC84A24A2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:angel_ring"
 					tag: { }
 				}
@@ -1611,7 +1611,7 @@
 			tasks: [{
 				id: "751E086160F8A9A1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:magma_ring"
 					tag: { }
 				}
@@ -1627,7 +1627,7 @@
 			tasks: [{
 				id: "1F7B93618B3E1FB9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:water_ring"
 					tag: { }
 				}
@@ -1694,7 +1694,7 @@
 			tasks: [{
 				id: "4F690744CAA2CCEC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "trinkets:mythic_charms/mythic_charm"

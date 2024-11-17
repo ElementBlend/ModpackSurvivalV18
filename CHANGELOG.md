@@ -1,5 +1,39 @@
 # Modpack Survival V18 Changelog
 
+## 18.3 (Final)
+
+**This is the final version, as we have completed the Modpack. It just contains some bug fixes that we know while we are playing**
+
+Fabric Version: 1.20.1-0.16.9  
+Total Mods: 296
+
+**Changes**
+
+- Fix some broken quests
+
+**Updated Mods**
+
+- AmbientSounds 6
+- Better chunk loading
+- Better Fps - Render Distance
+- Cloth Config API
+- Colorful Hearts
+- Connectivity
+- CreativeCore
+- Cull Less Leaves
+- Drippy Loading Screen
+- Dynamic FPS
+- Entity Culling
+- ImmediatelyFast
+- Jade
+- Target Dummy
+- ModernFix
+- Not Enough Recipe Book
+- Roughly Enough Items
+- Skin Layers 3D
+- Xaero's Minimap
+- Zoomify
+
 ## 18.2
 
 Fabric Version: 1.20.1-0.16.3  

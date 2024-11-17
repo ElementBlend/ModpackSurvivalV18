@@ -20,7 +20,7 @@
 			tasks: [{
 				id: "5C84159CEE6CC90D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "techreborn:treetap"
 					tag: {
 						Damage: 0
@@ -589,7 +589,7 @@
 			tasks: [{
 				id: "4DFED7E73A0BD2E1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "techreborn:nanosaber"
 					tag: {
 						isActive: 0b

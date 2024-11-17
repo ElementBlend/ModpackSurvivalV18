@@ -4,7 +4,7 @@
 	filename: "space_exploration"
 	group: "0631C37AA5FCBCF1"
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "ad_astra:tier_1_rocket"
 		tag: { }
 	}
@@ -19,12 +19,18 @@
 			id: "73BDC08B75733894"
 			rewards: [{
 				id: "594E955FC0A030CB"
-				item: "ad_astra:astrodux"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "ad_astra:astrodux"
+					}
+				}
 				type: "item"
 			}]
 			size: 1.5d
 			tasks: [{
-				advancement: "ad_astra:ad_astra"
+				advancement: "ad_astra:rocket_science"
 				criterion: ""
 				id: "53ED4446CE82F07D"
 				type: "advancement"
@@ -52,7 +58,7 @@
 			description: ["Equip your first space suit!"]
 			id: "5620720F9C90EEF9"
 			tasks: [{
-				advancement: "ad_astra:space_suit"
+				advancement: "ad_astra:astronaut"
 				criterion: ""
 				id: "6F6E032442EBBF60"
 				type: "advancement"
@@ -63,56 +69,15 @@
 		}
 		{
 			dependencies: ["5A660610E7058611"]
-			description: ["Launch a rocket with no passenger, causing it to explode in the sky!"]
-			id: "6445C9BAE6BABCA0"
-			tasks: [{
-				advancement: "ad_astra:rocket_destroyed"
-				criterion: ""
-				id: "1D34245135AF540D"
-				type: "advancement"
-			}]
-			title: "Rocket goes Boom"
-			x: 3.0d
-			y: 0.5d
-		}
-		{
-			dependencies: ["5A660610E7058611"]
-			description: ["Throw raw food into the atmosphere while in space!"]
-			id: "51E36558721403D5"
-			tasks: [{
-				advancement: "ad_astra:astro_cuisine"
-				criterion: ""
-				id: "1FDFBC0DEDCA1380"
-				title: "Cooking in Space"
-				type: "advancement"
-			}]
-			x: 3.0d
-			y: -0.5d
-		}
-		{
-			dependencies: ["5A660610E7058611"]
 			id: "6FE6022AD26B15CD"
 			tasks: [{
 				advancement: "ad_astra:moon"
 				criterion: ""
 				id: "0400561D0763EC12"
-				title: "Land on the Moon"
 				type: "advancement"
 			}]
+			title: "Land on the Moon"
 			x: 3.0d
-			y: 1.5d
-		}
-		{
-			dependencies: ["6FE6022AD26B15CD"]
-			id: "6F2B7B103D3F302F"
-			tasks: [{
-				advancement: "ad_astra:moon_dungeon"
-				criterion: ""
-				id: "75903BD5BC7DE47A"
-				title: "Enter a Moon Dungeon"
-				type: "advancement"
-			}]
-			x: 4.0d
 			y: 1.5d
 		}
 		{
@@ -122,7 +87,7 @@
 			tasks: [{
 				id: "72AD646A686AE7C8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_2_rocket"
 					tag: { }
 				}
@@ -138,9 +103,9 @@
 				advancement: "ad_astra:mars"
 				criterion: ""
 				id: "706CA0A5B4AAF43B"
-				title: "Land on Mars"
 				type: "advancement"
 			}]
+			title: "Land on Mars"
 			x: 5.0d
 			y: 0.5d
 		}
@@ -150,7 +115,7 @@
 			tasks: [{
 				id: "3C0135E414A80969"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_helmet"
 					tag: {
 						Damage: 0
@@ -167,7 +132,7 @@
 			tasks: [{
 				id: "2C1D48B910FC34DF"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_suit"
 					tag: {
 						Damage: 0
@@ -184,7 +149,7 @@
 			tasks: [{
 				id: "5E28B0CD277F1E07"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_pants"
 					tag: {
 						Damage: 0
@@ -201,7 +166,7 @@
 			tasks: [{
 				id: "200016FB9D1164EA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:netherite_space_boots"
 					tag: {
 						Damage: 0
@@ -218,7 +183,7 @@
 			tasks: [{
 				id: "54F139CB21CC498E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_3_rocket"
 					tag: { }
 				}
@@ -233,7 +198,7 @@
 			tasks: [{
 				id: "3BF93CE2EFA8FF30"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_1_rover"
 					tag: { }
 				}
@@ -274,7 +239,7 @@
 			tasks: [{
 				id: "7B404C76721DCA3E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit_helmet"
 					tag: {
 						Damage: 0
@@ -291,7 +256,7 @@
 			tasks: [{
 				id: "6E5B1E789BC543B9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit"
 					tag: {
 						Damage: 0
@@ -308,7 +273,7 @@
 			tasks: [{
 				id: "2C5E59EDB0C04AA9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit_pants"
 					tag: {
 						Damage: 0
@@ -325,7 +290,7 @@
 			tasks: [{
 				id: "64F2F9BBAE3F997E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:jet_suit_boots"
 					tag: {
 						Damage: 0
@@ -342,7 +307,7 @@
 			tasks: [{
 				id: "73638AD87893E569"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ad_astra:tier_4_rocket"
 					tag: { }
 				}
@@ -358,24 +323,10 @@
 				advancement: "ad_astra:interstellar"
 				criterion: ""
 				id: "4EA77B5E47BA180E"
-				title: "Travell to a new solar system"
 				type: "advancement"
 			}]
-			title: "Enter a new star sytem"
+			title: "Travell to a new solar system"
 			x: 9.0d
-			y: 0.5d
-		}
-		{
-			dependencies: ["0125751F17A9589E"]
-			id: "2C640CCFFC96B8D2"
-			tasks: [{
-				advancement: "ad_astra:challenger"
-				criterion: ""
-				id: "0CE8D9F7B5703811"
-				title: "Collect every globe"
-				type: "advancement"
-			}]
-			x: 10.0d
 			y: 0.5d
 		}
 		{
@@ -567,6 +518,17 @@
 			title: "&c Calorite Metal!"
 			x: 8.0d
 			y: -0.5d
+		}
+		{
+			dependencies: ["0125751F17A9589E"]
+			id: "3F37876C774F8795"
+			tasks: [{
+				id: "0EF6911509A1F05B"
+				item: "ad_astra:glacio_globe"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.5d
 		}
 	]
 	title: "Space Exploration"

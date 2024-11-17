@@ -4,7 +4,7 @@
 	filename: "bewitchment"
 	group: "2BBA68A47A608B1A"
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "bewitchment:athame"
 		tag: {
 			Damage: 0
@@ -26,7 +26,7 @@
 			tasks: [{
 				id: "7D4A1EA73E0D48DD"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:athame"
 					tag: {
 						Damage: 0
@@ -65,7 +65,7 @@
 			tasks: [{
 				id: "6006E823BF0B4073"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:chalk"
 					tag: {
 						Damage: 0
@@ -204,7 +204,7 @@
 			tasks: [{
 				id: "7FE8258B44B70C7D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:voodoo_protection_poppet"
 					tag: {
 						Damage: 0
@@ -221,7 +221,7 @@
 			tasks: [{
 				id: "3B68F252F106F62F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:protection_poppet"
 					tag: {
 						Damage: 0
@@ -238,7 +238,7 @@
 			tasks: [{
 				id: "5BB55991AE4B6E27"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:fatigue_poppet"
 					tag: {
 						Damage: 0
@@ -255,7 +255,7 @@
 			tasks: [{
 				id: "5CC07A8D13448286"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:mending_poppet"
 					tag: {
 						Damage: 0
@@ -272,7 +272,7 @@
 			tasks: [{
 				id: "6250469155819B85"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:curse_poppet"
 					tag: {
 						Damage: 0
@@ -289,7 +289,7 @@
 			tasks: [{
 				id: "56E7D77FC66C59F1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:vampiric_poppet"
 					tag: {
 						Damage: 0
@@ -306,7 +306,7 @@
 			tasks: [{
 				id: "7D0AF0D8204DE6B3"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:voodoo_poppet"
 					tag: {
 						Damage: 0
@@ -323,7 +323,7 @@
 			tasks: [{
 				id: "5334AF9FEEDC173A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:death_protection_poppet"
 					tag: {
 						Damage: 0
@@ -391,7 +391,7 @@
 			tasks: [{
 				id: "0C497A073658514A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:scepter"
 					tag: {
 						Damage: 0
@@ -408,7 +408,7 @@
 			tasks: [{
 				id: "501164C2C4611CDC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:caduceus"
 					tag: {
 						Damage: 0
@@ -425,7 +425,7 @@
 			tasks: [{
 				id: "493F4A6394C13B5A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:horned_spear"
 					tag: {
 						Damage: 0
@@ -442,7 +442,7 @@
 			tasks: [{
 				id: "72DC90709649D192"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "bewitchment:demonic_contract"
 					tag: {
 						Contract: "bewitchment:pestilence"

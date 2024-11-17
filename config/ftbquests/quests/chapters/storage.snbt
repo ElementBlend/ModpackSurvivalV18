@@ -45,7 +45,7 @@
 			tasks: [{
 				id: "6482CE234ECE1DAB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:baby_backpack"
 					tag: { }
 				}
@@ -61,7 +61,7 @@
 			tasks: [{
 				id: "71993A488870E0D9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:frayed_backpack"
 					tag: { }
 				}
@@ -76,7 +76,7 @@
 			tasks: [{
 				id: "2E4B7BF6A7357F97"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:plated_backpack"
 					tag: { }
 				}
@@ -91,7 +91,7 @@
 			tasks: [{
 				id: "2F5471D51A723A79"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:gilded_backpack"
 					tag: { }
 				}
@@ -106,7 +106,7 @@
 			tasks: [{
 				id: "22D8F51A425E48F2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:bejeweled_backpack"
 					tag: { }
 				}
@@ -121,7 +121,7 @@
 			tasks: [{
 				id: "62DCDEC67B4CCF14"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:blazing_backpack"
 					tag: { }
 				}
@@ -136,7 +136,7 @@
 			tasks: [{
 				id: "0ED164CA8CB4D152"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:withered_backpack"
 					tag: { }
 				}
@@ -151,7 +151,7 @@
 			tasks: [{
 				id: "39A7032E4AA7375B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "inmis:endless_backpack"
 					tag: { }
 				}
@@ -166,7 +166,7 @@
 			tasks: [{
 				id: "1A56DA888875CF08"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bottomless_bundle"
 					tag: { }
 				}
@@ -488,11 +488,12 @@
 		}
 		{
 			dependencies: ["613CADFE6D1BD57F"]
+			hide: true
 			id: "59360A016F7BCA23"
 			tasks: [{
 				id: "2577F82612B3D6BC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "travelersbackpack:standard"
 					tag: { }
 				}

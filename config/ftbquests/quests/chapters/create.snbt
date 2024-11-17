@@ -515,7 +515,7 @@
 			tasks: [{
 				id: "171641F6600EC441"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:potato_cannon"
 					tag: {
 						Damage: 0
@@ -609,7 +609,7 @@
 			tasks: [{
 				id: "6886E9FB38FC363D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:extendo_grip"
 					tag: {
 						Damage: 0
@@ -688,7 +688,7 @@
 				{
 					id: "100B2DCB7CD6C455"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:filter"
 						tag: {
 							Items: { }
@@ -699,7 +699,7 @@
 				{
 					id: "298A23CB6BCE3275"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:attribute_filter"
 						tag: { }
 					}
@@ -773,7 +773,7 @@
 			tasks: [{
 				id: "7ECE7137CB80BB36"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "create:toolboxes"
@@ -826,7 +826,7 @@
 				{
 					id: "314976D5CD5B3ADD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:copper_backtank"
 						tag: {
 							Air: 900
@@ -837,7 +837,7 @@
 				{
 					id: "77F7FA219E4A8944"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:copper_diving_helmet"
 						tag: {
 							Damage: 0
@@ -848,7 +848,7 @@
 				{
 					id: "667B70116254792E"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:copper_diving_boots"
 						tag: {
 							Damage: 0
@@ -859,7 +859,7 @@
 				{
 					id: "11E7EB57C23B9A4C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:netherite_diving_helmet"
 						tag: {
 							Damage: 0
@@ -870,7 +870,7 @@
 				{
 					id: "20D440184AB7D9D8"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "create:netherite_diving_boots"
 						tag: {
 							Damage: 0
@@ -1068,7 +1068,7 @@
 			tasks: [{
 				id: "723C4FCCDECC18FC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:sand_paper"
 					tag: {
 						Damage: 0
@@ -1401,7 +1401,7 @@
 			tasks: [{
 				id: "794196A907E18650"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "createoreexcavation:vein_finder"
 					tag: { }
 				}

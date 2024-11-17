@@ -4,7 +4,7 @@
 	filename: "technology_utilities"
 	group: "2061988DE7EF893B"
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "powah:wrench"
 		tag: {
 			PowahWrenchNBT: { }
@@ -341,7 +341,7 @@
 			rewards: [{
 				id: "110BE0E311E45941"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "powah:book"
 					tag: { }
 				}
@@ -350,7 +350,7 @@
 			tasks: [{
 				id: "34FC0E1D9D71E359"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "powah:wrench"
 					tag: {
 						PowahWrenchNBT: { }
@@ -532,7 +532,7 @@
 			tasks: [{
 				id: "100B680A0FE13484"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "powah:charged_snowball"
 					tag: { }
 				}
@@ -547,7 +547,7 @@
 			tasks: [{
 				id: "1E8D54BA3C2EB640"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "powah:battery_nitro"
 					tag: { }
 				}
@@ -660,6 +660,7 @@
 		}
 		{
 			dependencies: ["7EB1B6965157A706"]
+			hide: true
 			id: "08AB0ABB680A673D"
 			tasks: [{
 				id: "56A9E93721847881"

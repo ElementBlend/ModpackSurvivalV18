@@ -86,7 +86,7 @@
 				{
 					id: "4CBBB9BA189E1001"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "ae2:wireless_terminal"
 						tag: { }
 					}
@@ -535,7 +535,7 @@
 			tasks: [{
 				id: "25AB07182572D025"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:wireless_crafting_terminal"
 					tag: { }
 				}
@@ -561,7 +561,7 @@
 			tasks: [{
 				id: "54EE2CB2EC6616FB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2wtlib:wireless_universal_terminal"
 					tag: { }
 				}
@@ -664,7 +664,7 @@
 			tasks: [{
 				id: "3A9B8C4068950844"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_1k"
 					tag: { }
 				}
@@ -679,7 +679,7 @@
 			tasks: [{
 				id: "21845DEDB81A13D7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_4k"
 					tag: { }
 				}
@@ -694,7 +694,7 @@
 			tasks: [{
 				id: "01E5F6EA156EA67E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_16k"
 					tag: { }
 				}
@@ -723,7 +723,7 @@
 			tasks: [{
 				id: "1F2497BD24D08B64"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_64k"
 					tag: { }
 				}
@@ -750,7 +750,7 @@
 			tasks: [{
 				id: "64BC9466DFECE16C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:fluid_storage_cell_1k"
 					tag: { }
 				}
@@ -765,7 +765,7 @@
 			tasks: [{
 				id: "67B58ED7048D6CE6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:fluid_storage_cell_4k"
 					tag: { }
 				}
@@ -780,7 +780,7 @@
 			tasks: [{
 				id: "132A3ADCECA40257"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:fluid_storage_cell_16k"
 					tag: { }
 				}
@@ -809,7 +809,7 @@
 			tasks: [{
 				id: "637BD2475A00A6CB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:fluid_storage_cell_64k"
 					tag: { }
 				}
@@ -846,9 +846,9 @@
 			id: "7D3E74D82F9DE177"
 			rewards: [
 				{
-					count: 5
+					count: 15
 					id: "0AD9555D2333FA20"
-					item: "architects_palette:ender_pearl_block"
+					item: "betterend:ender_block"
 					type: "item"
 				}
 				{
@@ -931,7 +931,7 @@
 			tasks: [{
 				id: "022A0BC28AAF31B3"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:item_storage_cell_256k"
 					tag: { }
 				}
@@ -946,7 +946,7 @@
 			tasks: [{
 				id: "77698F08CD17BCA5"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "ae2:fluid_storage_cell_256k"
 					tag: { }
 				}
@@ -1016,7 +1016,7 @@
 			tasks: [{
 				id: "10BAC87484A3FF48"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:item_storage_cell_1m"
 					tag: { }
 				}
@@ -1031,7 +1031,7 @@
 			tasks: [{
 				id: "53BAD6FC5003BFF6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:item_storage_cell_4m"
 					tag: { }
 				}
@@ -1046,7 +1046,7 @@
 			tasks: [{
 				id: "7E2A0E710BB71D13"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:item_storage_cell_16m"
 					tag: { }
 				}
@@ -1061,7 +1061,7 @@
 			tasks: [{
 				id: "0444B3043C2EC628"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:item_storage_cell_64m"
 					tag: { }
 				}
@@ -1076,7 +1076,7 @@
 			tasks: [{
 				id: "1A2F4CDE5BB15C66"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:item_storage_cell_256m"
 					tag: { }
 				}
@@ -1091,7 +1091,7 @@
 			tasks: [{
 				id: "3D9C01E67A45B64A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:fluid_storage_cell_1m"
 					tag: { }
 				}
@@ -1106,7 +1106,7 @@
 			tasks: [{
 				id: "4229A3CC0151D37F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:fluid_storage_cell_4m"
 					tag: { }
 				}
@@ -1121,7 +1121,7 @@
 			tasks: [{
 				id: "26FCC394BA02599A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:fluid_storage_cell_16m"
 					tag: { }
 				}
@@ -1136,7 +1136,7 @@
 			tasks: [{
 				id: "0E1BB52981260393"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:fluid_storage_cell_64m"
 					tag: { }
 				}
@@ -1151,7 +1151,7 @@
 			tasks: [{
 				id: "4B2F905E9BAE007F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "megacells:fluid_storage_cell_256m"
 					tag: { }
 				}

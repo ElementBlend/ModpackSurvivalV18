@@ -209,7 +209,7 @@
 			tasks: [{
 				id: "73714736922673B8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:tank"
 					tag: {
 						BlockEntityTag: { }
@@ -239,7 +239,7 @@
 			tasks: [{
 				id: "1F5CAC23C159C8E8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_pouch"
 					tag: {
 						open: 0b
@@ -256,7 +256,7 @@
 			tasks: [{
 				id: "0ED100A38BEEC3ED"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_bag"
 					tag: {
 						code: "000"
@@ -275,7 +275,7 @@
 			tasks: [{
 				id: "15C600333D4699CD"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_chest"
 					tag: {
 						code: "000"
@@ -293,7 +293,7 @@
 			tasks: [{
 				id: "0136D4EBB487836D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_chest"
 					tag: {
 						code: "EEE"
@@ -311,7 +311,7 @@
 			tasks: [{
 				id: "363114E142FF5587"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_chest"
 					tag: {
 						code: "999"
@@ -329,7 +329,7 @@
 			tasks: [{
 				id: "326B94D370E30486"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_bag"
 					tag: {
 						code: "EEE"
@@ -348,7 +348,7 @@
 			tasks: [{
 				id: "40C2FF470413CBDB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "enderchests:ender_bag"
 					tag: {
 						code: "999"
@@ -599,7 +599,7 @@
 			tasks: [{
 				id: "3530744C80941D29"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "dml-refabricated:trial_key"
 					tag: { }
 				}
@@ -614,7 +614,7 @@
 			tasks: [{
 				id: "15E6980102A59E54"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "dml-refabricated:deep_learner"
 					tag: { }
 				}
@@ -652,7 +652,7 @@
 				{
 					id: "129E81FFD1D7364E"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "dml-refabricated:glitch_helmet"
 						tag: { }
 					}
@@ -661,7 +661,7 @@
 				{
 					id: "38C511809426A3FC"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "dml-refabricated:glitch_chestplate"
 						tag: { }
 					}
@@ -670,7 +670,7 @@
 				{
 					id: "50AA016D1368A619"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "dml-refabricated:glitch_leggings"
 						tag: { }
 					}
@@ -679,7 +679,7 @@
 				{
 					id: "4D144A265EA92FEF"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "dml-refabricated:glitch_boots"
 						tag: { }
 					}
@@ -692,11 +692,12 @@
 		{
 			dependencies: ["5BA6272AD369212B"]
 			description: ["https://github.com/CafeteriaGuild/DeepMobLearning-Refabricated/wiki"]
+			hide: true
 			id: "3433CB3CBBD0CB60"
 			tasks: [{
 				id: "5B36C9915F749EC8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "dml-refabricated:data_model"
 					tag: { }
 				}

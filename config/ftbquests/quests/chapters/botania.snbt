@@ -14,7 +14,7 @@
 			tasks: [{
 				id: "7ABB92917F9A529C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "botania:mystical_flowers"
@@ -32,7 +32,7 @@
 			tasks: [{
 				id: "3F596D2ECA308348"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "botania:petals"
@@ -1006,7 +1006,7 @@
 				{
 					id: "29BF7FC0F9BD2DC4"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manaweave_helmet"
 						tag: {
 							Damage: 0
@@ -1018,7 +1018,7 @@
 				{
 					id: "4D62791456A8B79E"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manaweave_chestplate"
 						tag: {
 							Damage: 0
@@ -1030,7 +1030,7 @@
 				{
 					id: "402A2D45C01217A4"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manaweave_leggings"
 						tag: {
 							Damage: 0
@@ -1042,7 +1042,7 @@
 				{
 					id: "32B4910E9045F54F"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manaweave_boots"
 						tag: {
 							Damage: 0
@@ -1076,7 +1076,7 @@
 				{
 					id: "482EF4320920B504"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_helmet"
 						tag: {
 							Damage: 0
@@ -1087,7 +1087,7 @@
 				{
 					id: "2689FDB7FC961463"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_chestplate"
 						tag: {
 							Damage: 0
@@ -1098,7 +1098,7 @@
 				{
 					id: "60BCC9C5A4F112E7"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_leggings"
 						tag: {
 							Damage: 0
@@ -1109,7 +1109,7 @@
 				{
 					id: "72A76DFCB16BA613"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_boots"
 						tag: {
 							Damage: 0
@@ -1120,7 +1120,7 @@
 				{
 					id: "344B4CBE72289980"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_sword"
 						tag: {
 							Damage: 0
@@ -1131,7 +1131,7 @@
 				{
 					id: "6E301CA9C61EEA55"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_pick"
 						tag: {
 							Damage: 0
@@ -1142,7 +1142,7 @@
 				{
 					id: "37345381B45DCCD5"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_axe"
 						tag: {
 							Damage: 0
@@ -1153,7 +1153,7 @@
 				{
 					id: "3D65D0F796C8A092"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_shovel"
 						tag: {
 							Damage: 0
@@ -1164,7 +1164,7 @@
 				{
 					id: "355BC4F06B2B89D3"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_hoe"
 						tag: {
 							Damage: 0
@@ -1175,7 +1175,7 @@
 				{
 					id: "452A25D498BA572A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:manasteel_shears"
 						tag: {
 							Damage: 0
@@ -1195,7 +1195,7 @@
 				{
 					id: "428C6144BC0F73CC"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:terrasteel_helmet"
 						tag: {
 							Damage: 0
@@ -1206,7 +1206,7 @@
 				{
 					id: "203E8D3B869CAFEA"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:terrasteel_chestplate"
 						tag: {
 							Damage: 0
@@ -1217,7 +1217,7 @@
 				{
 					id: "6D989C234F3E1A20"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:terrasteel_leggings"
 						tag: {
 							Damage: 0
@@ -1228,7 +1228,7 @@
 				{
 					id: "2454459CA4464BC9"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:terrasteel_boots"
 						tag: {
 							Damage: 0
@@ -1239,7 +1239,7 @@
 				{
 					id: "09E6C631F76A0BBD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:terra_sword"
 						tag: {
 							Damage: 0
@@ -1250,7 +1250,7 @@
 				{
 					id: "4F1E81FAFDF909AD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:terra_axe"
 						tag: {
 							Damage: 0
@@ -1269,7 +1269,7 @@
 			tasks: [{
 				id: "4329EC960DEF3600"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:twig_wand"
 					tag: {
 						color1: 0
@@ -1287,7 +1287,7 @@
 			tasks: [{
 				id: "26AFEB45A912AA44"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:natura_pylon"
 					tag: { }
 				}
@@ -1314,7 +1314,7 @@
 			tasks: [{
 				id: "3DA68957389BFC6C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:speed"
@@ -1331,7 +1331,7 @@
 			tasks: [{
 				id: "6AE450FC306E791A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:strength"
@@ -1348,7 +1348,7 @@
 			tasks: [{
 				id: "3BBDEC1B96D91A3A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:haste"
@@ -1365,7 +1365,7 @@
 			tasks: [{
 				id: "7E2383D7A3E352A4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:jump_boost"
@@ -1382,7 +1382,7 @@
 			tasks: [{
 				id: "4D5B9E0E4C2C1E35"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:regen"
@@ -1400,7 +1400,7 @@
 			tasks: [{
 				id: "75E96AEB970BAB8C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:regen_weak"
@@ -1418,7 +1418,7 @@
 			tasks: [{
 				id: "28403C22A4EE0C96"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:resistance"
@@ -1436,7 +1436,7 @@
 			tasks: [{
 				id: "4DB302925BC2C635"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:feather_feet"
@@ -1454,7 +1454,7 @@
 			tasks: [{
 				id: "79255BA258C0B5E0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:soul_cross"
@@ -1472,7 +1472,7 @@
 			tasks: [{
 				id: "44DAE01F9437FB49"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:night_vision"
@@ -1490,7 +1490,7 @@
 			tasks: [{
 				id: "0CBE905C0AC84784"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:water_breathing"
@@ -1508,7 +1508,7 @@
 			tasks: [{
 				id: "139B7E714DEB4B7F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:fire_resistance"
@@ -1526,7 +1526,7 @@
 			tasks: [{
 				id: "0653AD10EC9CBE26"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:allure"
@@ -1544,7 +1544,7 @@
 			tasks: [{
 				id: "4003AA14126D51B7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:bloodthirst"
@@ -1562,7 +1562,7 @@
 			tasks: [{
 				id: "1A35715187DD0985"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:blood_pendant"
 					tag: {
 						brewKey: "botania:emptiness"
@@ -1616,7 +1616,7 @@
 			tasks: [{
 				id: "1FFE94D5DA0B4183"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:flight_tiara"
 					tag: {
 						variant: 0
@@ -1781,7 +1781,7 @@
 				{
 					id: "18632F439A7C3010"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_helmet"
 						tag: {
 							Damage: 0
@@ -1792,7 +1792,7 @@
 				{
 					id: "7C7858F439D4B08D"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_chestplate"
 						tag: {
 							Damage: 0
@@ -1803,7 +1803,7 @@
 				{
 					id: "2B949E60DAC43A0C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_leggings"
 						tag: {
 							Damage: 0
@@ -1814,7 +1814,7 @@
 				{
 					id: "1836C3BA72F672A3"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_boots"
 						tag: {
 							Damage: 0
@@ -1825,7 +1825,7 @@
 				{
 					id: "4922B712092C979B"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_sword"
 						tag: {
 							Damage: 0
@@ -1836,7 +1836,7 @@
 				{
 					id: "0455D5D11B5B58D2"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_pickaxe"
 						tag: {
 							Damage: 0
@@ -1847,7 +1847,7 @@
 				{
 					id: "1D37C60CD53481C8"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_axe"
 						tag: {
 							Damage: 0
@@ -1858,7 +1858,7 @@
 				{
 					id: "0AE6F1861276B113"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_shovel"
 						tag: {
 							Damage: 0
@@ -1869,7 +1869,7 @@
 				{
 					id: "1CFF464EBE59B1BE"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_hoe"
 						tag: {
 							Damage: 0
@@ -1880,7 +1880,7 @@
 				{
 					id: "7CB535C3CDA53F45"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:elementium_shears"
 						tag: {
 							Damage: 0
@@ -1891,7 +1891,7 @@
 				{
 					id: "6C9505935C8C1998"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "botania:star_sword"
 						tag: {
 							Damage: 0
@@ -2087,7 +2087,7 @@
 			tasks: [{
 				id: "2311D036C30172F7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:terra_pick"
 					tag: {
 						Damage: 0
@@ -2149,7 +2149,7 @@
 			tasks: [{
 				id: "194FD96B0AA1693C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:lexicon"
 					tag: {
 						"botania:elven_unlock": 1b
@@ -2260,7 +2260,7 @@
 			tasks: [{
 				id: "296F7791D1AD5B4A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:tornado_rod"
 					tag: { }
 				}
@@ -2336,7 +2336,7 @@
 			tasks: [{
 				id: "4BC1E47F6FFAE0DA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:gravity_rod"
 					tag: {
 						dist: -1.0d
@@ -2451,7 +2451,7 @@
 			tasks: [{
 				id: "0194EB7173A3C2EA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:reach_ring"
 					tag: {
 						baubleUUID: [I;
@@ -2474,7 +2474,7 @@
 			tasks: [{
 				id: "1617D84BBDFA815C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:pixie_ring"
 					tag: {
 						baubleUUID: [I;
@@ -2496,7 +2496,7 @@
 			tasks: [{
 				id: "155F5CC814C7A1DC"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:dice"
 					tag: {
 						soulbindUUID: "c58b620f-e261-41cf-8e1c-618bf66248b8"
@@ -2513,7 +2513,7 @@
 			tasks: [{
 				id: "129797F8FAFCBE17"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:infinite_fruit"
 					tag: {
 						soulbindUUID: "c58b620f-e261-41cf-8e1c-618bf66248b8"
@@ -2530,7 +2530,7 @@
 			tasks: [{
 				id: "2D0C2B7DF6538388"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:king_key"
 					tag: {
 						soulbindUUID: "c58b620f-e261-41cf-8e1c-618bf66248b8"
@@ -2547,7 +2547,7 @@
 			tasks: [{
 				id: "11ECFE184F61AD41"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:flugel_eye"
 					tag: {
 						soulbindUUID: "c58b620f-e261-41cf-8e1c-618bf66248b8"
@@ -2565,7 +2565,7 @@
 			tasks: [{
 				id: "4D1EB658C515A112"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:thor_ring"
 					tag: {
 						soulbindUUID: "c58b620f-e261-41cf-8e1c-618bf66248b8"
@@ -2583,7 +2583,7 @@
 			tasks: [{
 				id: "2BF6576D5732AAB6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:odin_ring"
 					tag: {
 						baubleUUID: [I;
@@ -2607,7 +2607,7 @@
 			tasks: [{
 				id: "232362976E59F378"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:loki_ring"
 					tag: {
 						soulbindUUID: "c58b620f-e261-41cf-8e1c-618bf66248b8"
@@ -2675,7 +2675,7 @@
 			tasks: [{
 				id: "65F9331E51448E51"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:knockback_belt"
 					tag: {
 						baubleUUID: [I;
@@ -2758,7 +2758,7 @@
 			tasks: [{
 				id: "3F16644588877441"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:mana_gun"
 					tag: { }
 				}
@@ -2774,7 +2774,7 @@
 			tasks: [{
 				id: "2E8A5F82A6E1EB33"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:slime_bottle"
 					tag: {
 						active: 0b
@@ -2900,7 +2900,7 @@
 			tasks: [{
 				id: "2D5B5F1B0C09DBA2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:temperance_stone"
 					tag: {
 						active: 0b

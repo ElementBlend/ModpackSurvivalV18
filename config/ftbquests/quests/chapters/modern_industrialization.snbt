@@ -256,7 +256,7 @@
 			tasks: [{
 				id: "4A928409BFF8C7AD"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "modern_industrialization:item_pipe"
 					tag: { }
 				}
@@ -471,7 +471,7 @@
 			tasks: [{
 				id: "105227BFBE51182F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "modern_industrialization:steam_mining_drill"
 					tag: { }
 				}

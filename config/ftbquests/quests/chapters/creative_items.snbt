@@ -39,7 +39,7 @@
 			]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "wands:creative_wand"
 				tag: {
 					Damage: 0
@@ -50,7 +50,7 @@
 			rewards: [{
 				id: "70A76B4FE3D95994"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "wands:creative_wand"
 					tag: {
 						Damage: 0
@@ -157,7 +157,7 @@
 			]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "kibe:angel_ring"
 				tag: { }
 			}
@@ -165,7 +165,7 @@
 			rewards: [{
 				id: "6AE1B9C7E930A1BD"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:angel_ring"
 					tag: { }
 				}
@@ -291,7 +291,7 @@
 				count: 9
 				id: "709B6ED23FC90AD1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:creative_blaze_cake"
 					tag: { }
 				}
@@ -340,7 +340,7 @@
 			]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "create:handheld_worldshaper"
 				tag: {
 					BlockUsed: {
@@ -361,7 +361,7 @@
 			rewards: [{
 				id: "68DFF3CA09798B72"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "create:handheld_worldshaper"
 					tag: {
 						BlockUsed: {
@@ -398,7 +398,7 @@
 			]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "botania:creative_pool"
 				tag: { }
 			}
@@ -406,7 +406,7 @@
 			rewards: [{
 				id: "1DC20FC2E440FC18"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "botania:creative_pool"
 					tag: { }
 				}

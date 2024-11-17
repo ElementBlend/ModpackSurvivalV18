@@ -211,7 +211,7 @@
 			tasks: [{
 				id: "17CECD7F4C9BB2C9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "spectrum:pedestals"
@@ -246,7 +246,7 @@
 			hide: true
 			id: "0C6801E2945A1E82"
 			tasks: [{
-				advancement: "spectrum:craft_colored_pedestal"
+				advancement: "spectrum:craft_using_pedestal"
 				criterion: ""
 				id: "7B2F5DBF51721D18"
 				type: "advancement"
@@ -261,7 +261,7 @@
 			tasks: [{
 				id: "37B9C5CD83AD7A43"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "spectrum:colored_saplings"
@@ -368,7 +368,7 @@
 				{
 					id: "2FD6CB1FE5EE644C"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "spectrum:fetchling_helmet"
 						tag: {
 							Damage: 0
@@ -379,7 +379,7 @@
 				{
 					id: "415FEE121EC7F0E9"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "spectrum:ferocious_chestplate"
 						tag: {
 							Damage: 0
@@ -390,7 +390,7 @@
 				{
 					id: "494539CF6D92808A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "spectrum:sylph_leggings"
 						tag: {
 							Damage: 0
@@ -401,7 +401,7 @@
 				{
 					id: "2023DE9CBCD9E022"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "spectrum:oread_boots"
 						tag: {
 							Damage: 0
@@ -420,7 +420,7 @@
 			tasks: [{
 				id: "6E4426C9A47D883B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:oblivion_pickaxe"
 					tag: {
 						Damage: 0
@@ -442,7 +442,7 @@
 			tasks: [{
 				id: "71C0E81F321B0B9D"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:razor_falchion"
 					tag: {
 						Damage: 0
@@ -464,7 +464,7 @@
 			tasks: [{
 				id: "1C1E68C20AB45335"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:lucky_pickaxe"
 					tag: {
 						Damage: 0
@@ -836,7 +836,7 @@
 			tasks: [{
 				id: "6D19F71DA93D4EB1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "itemfilters:tag"
 					tag: {
 						value: "spectrum:shooting_stars"
@@ -1113,7 +1113,7 @@
 			tasks: [{
 				id: "17568B15AD6BD190"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1139,7 +1139,7 @@
 			tasks: [{
 				id: "606B456FBE69E3A1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1162,7 +1162,7 @@
 			tasks: [{
 				id: "767EA6B2580A861F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1185,7 +1185,7 @@
 			tasks: [{
 				id: "595FFDA6481CFEB4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1211,7 +1211,7 @@
 			tasks: [{
 				id: "5B43444E8D73ED67"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1234,7 +1234,7 @@
 			tasks: [{
 				id: "4B7EA4198CD168A5"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1257,7 +1257,7 @@
 			tasks: [{
 				id: "61B688ABB3889059"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1280,7 +1280,7 @@
 			tasks: [{
 				id: "36DD3B52D49B23DE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1303,7 +1303,7 @@
 			tasks: [{
 				id: "68DDBCA4B5F07FD4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1329,7 +1329,7 @@
 			tasks: [{
 				id: "3FDA52CCFCE18027"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1352,7 +1352,7 @@
 			tasks: [{
 				id: "6F70CB4D1A6C19DF"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1375,7 +1375,7 @@
 			tasks: [{
 				id: "33F3E6907FCC3D45"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1402,7 +1402,7 @@
 			tasks: [{
 				id: "44AA5796CEFBB787"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1425,7 +1425,7 @@
 			tasks: [{
 				id: "155010E6D83699B8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1448,7 +1448,7 @@
 			tasks: [{
 				id: "5A6906093EC38785"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1471,7 +1471,7 @@
 			tasks: [{
 				id: "0902E4DE8AE3BD18"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1494,7 +1494,7 @@
 			tasks: [{
 				id: "4CFC6DA8CCDD35B9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1517,7 +1517,7 @@
 			tasks: [{
 				id: "23BB3667D95846EA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1543,7 +1543,7 @@
 			tasks: [{
 				id: "7B25AE98AD3380D6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1566,7 +1566,7 @@
 			tasks: [{
 				id: "45F8E4C05E880201"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1589,7 +1589,7 @@
 			tasks: [{
 				id: "2E15143563DD94B7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1615,7 +1615,7 @@
 			tasks: [{
 				id: "0FF6E6F37D8E5BEE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1638,7 +1638,7 @@
 			tasks: [{
 				id: "653E324E4E18574F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1661,7 +1661,7 @@
 			tasks: [{
 				id: "0D86958C3804A23C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1684,7 +1684,7 @@
 			tasks: [{
 				id: "2F80359B41714156"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1707,7 +1707,7 @@
 			tasks: [{
 				id: "704C03A9D3B677BE"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1733,7 +1733,7 @@
 			tasks: [{
 				id: "564C0B4759D64A52"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1756,7 +1756,7 @@
 			tasks: [{
 				id: "48851E630CB7B613"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1779,7 +1779,7 @@
 			tasks: [{
 				id: "5043ED2A268ED63A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1805,7 +1805,7 @@
 			tasks: [{
 				id: "65A3A053EAFC9010"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1828,7 +1828,7 @@
 			tasks: [{
 				id: "72A61FE3E81142B6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -1851,7 +1851,7 @@
 			tasks: [{
 				id: "5CEFC7F230E4DCC4"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "minecraft:enchanted_book"
 					tag: {
 						StoredEnchantments: [{
@@ -2049,7 +2049,7 @@
 			tasks: [{
 				id: "747B99FA6B1E9709"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_pickaxe"
 					tag: {
 						Enchantments: [{
@@ -2074,7 +2074,7 @@
 			tasks: [{
 				id: "6887549A6837B2CD"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_axe"
 					tag: {
 						Enchantments: [{
@@ -2099,7 +2099,7 @@
 			tasks: [{
 				id: "5419EBAA9D874478"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_shovel"
 					tag: {
 						Enchantments: [{
@@ -2124,7 +2124,7 @@
 			tasks: [{
 				id: "77051ECB069CC2C1"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_sword"
 					tag: {
 						Enchantments: [{
@@ -2149,7 +2149,7 @@
 			tasks: [{
 				id: "538B4A6CAAE64966"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_hoe"
 					tag: {
 						Enchantments: [{
@@ -2174,7 +2174,7 @@
 			tasks: [{
 				id: "6DA5DDC63C451E6F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_bow"
 					tag: {
 						Enchantments: [{
@@ -2199,7 +2199,7 @@
 			tasks: [{
 				id: "45211CE6155F93F6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_shears"
 					tag: {
 						Enchantments: [{
@@ -2224,7 +2224,7 @@
 			tasks: [{
 				id: "78BEB0F0216CCF6A"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_fishing_rod"
 					tag: {
 						Enchantments: [{
@@ -2246,7 +2246,7 @@
 			tasks: [{
 				id: "2A936CA8A4EC79C9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_helmet"
 					tag: {
 						Enchantments: [{
@@ -2271,7 +2271,7 @@
 			tasks: [{
 				id: "3503FB8242F0889F"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_chestplate"
 					tag: {
 						Enchantments: [{
@@ -2296,7 +2296,7 @@
 			tasks: [{
 				id: "1B7B9CD01D411AD0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_leggings"
 					tag: {
 						Enchantments: [{
@@ -2321,7 +2321,7 @@
 			tasks: [{
 				id: "25D0C270E198157C"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "spectrum:bedrock_boots"
 					tag: {
 						Enchantments: [{

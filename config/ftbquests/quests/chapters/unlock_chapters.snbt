@@ -4,7 +4,7 @@
 	filename: "unlock_chapters"
 	group: "5732ED1432D9646C"
 	icon: {
-		Count: 1b
+		Count: 1
 		id: "questsicons:end_lock"
 		tag: { }
 	}
@@ -92,7 +92,7 @@
 			dependencies: ["297D1E50C45B87F1"]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "bewitchment:athame"
 				tag: {
 					Damage: 0
@@ -158,7 +158,7 @@
 			dependencies: ["297D1E50C45B87F1"]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "powah:wrench"
 				tag: {
 					PowahWrenchNBT: { }
@@ -223,7 +223,7 @@
 				{
 					id: "1D227BF0CA07DCB8"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -257,7 +257,7 @@
 				{
 					id: "2331BADCE6247798"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -290,7 +290,7 @@
 				{
 					id: "3A8F625AB86CC832"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -323,7 +323,7 @@
 				{
 					id: "71357B0F9DBFEDFB"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -356,7 +356,7 @@
 				{
 					id: "37B884549995F3CD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -389,7 +389,7 @@
 				{
 					id: "480B0EDD47D8ADB4"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -422,7 +422,7 @@
 				{
 					id: "27F17EA8C7DEE879"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -455,7 +455,7 @@
 				{
 					id: "5ADC73B1F3F951DA"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -488,7 +488,7 @@
 				{
 					id: "6CB72F86FC85CC75"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -521,7 +521,7 @@
 				{
 					id: "3D482043E43E9AC8"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -554,7 +554,7 @@
 				{
 					id: "7C3BF92CE79B9EC1"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -577,7 +577,7 @@
 				"580968D8927EAB82"
 			]
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "questsicons:end_lock"
 				tag: { }
 			}
@@ -620,7 +620,7 @@
 				{
 					id: "4662ADD1E778D883"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -641,7 +641,7 @@
 			dependencies: ["6E3C9A36FBD838D2"]
 			hide: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "ad_astra:tier_1_rocket"
 				tag: { }
 			}
@@ -671,7 +671,7 @@
 				{
 					id: "7A434B43F0D3BAB2"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -713,7 +713,7 @@
 				{
 					id: "53846AFE0C2CBE73"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -766,7 +766,7 @@
 				{
 					id: "7BA48E01A4AA5689"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -813,7 +813,7 @@
 				{
 					id: "20BBE31AE9FA1CEE"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0
@@ -861,7 +861,7 @@
 				{
 					id: "448D0CBB78E1C5FD"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "questsicons:quest_reward"
 						tag: {
 							Damage: 0

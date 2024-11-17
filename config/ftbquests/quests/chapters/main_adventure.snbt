@@ -381,6 +381,7 @@
 			hide_dependency_lines: true
 			id: "69959ECBFD688D00"
 			tasks: [{
+				consume_items: false
 				id: "0DCBB62EE4FBC0CE"
 				item: "minecraft:piston"
 				type: "item"
@@ -419,7 +420,7 @@
 			dependencies: ["2815BCF45FC0239C"]
 			hide_dependency_lines: true
 			icon: {
-				Count: 1b
+				Count: 1
 				id: "kubejs:minecells_portal"
 				tag: { }
 			}
@@ -440,7 +441,7 @@
 				{
 					id: "43A2FD6A3BFDB752"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecells:blood_sword"
 						tag: {
 							Damage: 0
@@ -451,7 +452,7 @@
 				{
 					id: "7D7C461224556951"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecells:hattoris_katana"
 						tag: {
 							Damage: 0
@@ -462,7 +463,7 @@
 				{
 					id: "0646C9ECF8602EC3"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecells:assassins_dagger"
 						tag: {
 							Damage: 0
@@ -473,7 +474,7 @@
 				{
 					id: "466897FB27FEA1A1"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecells:health_flask"
 						tag: { }
 					}
@@ -491,7 +492,7 @@
 				{
 					id: "3E6FC948183514E8"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecells:tentacle"
 						tag: {
 							Damage: 0
@@ -502,7 +503,7 @@
 				{
 					id: "478DD47B25B9CF4A"
 					item: {
-						Count: 1b
+						Count: 1
 						id: "minecells:cursed_sword"
 						tag: {
 							Damage: 0

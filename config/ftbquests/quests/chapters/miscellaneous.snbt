@@ -6,11 +6,7 @@
 	icon: "blast:confetti_trigger_bomb"
 	id: "2520FFF58AC14D09"
 	images: [{
-		click: ""
-		corner: false
-		dev: false
 		height: 0.01d
-		hover: [ ]
 		image: "blockus:textures/block/black_neon.png"
 		rotation: 0.0d
 		width: 5.0d
@@ -236,7 +232,7 @@
 			tasks: [{
 				id: "788BD2921CA0006E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:golden_lasso"
 					tag: { }
 				}
@@ -251,7 +247,7 @@
 			tasks: [{
 				id: "3DDBEBB76D66BD82"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:cursed_lasso"
 					tag: { }
 				}
@@ -266,7 +262,7 @@
 			tasks: [{
 				id: "6BB7B3493695BFC5"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "kibe:diamond_lasso"
 					tag: { }
 				}
@@ -562,7 +558,7 @@
 			tasks: [{
 				id: "60B6A7F87C2196D8"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "wands:stone_wand"
 					tag: {
 						Damage: 0
@@ -579,7 +575,7 @@
 			tasks: [{
 				id: "777EACF6DF1AA4A6"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "wands:iron_wand"
 					tag: {
 						Damage: 0
@@ -596,7 +592,7 @@
 			tasks: [{
 				id: "5568285D232A37DA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "wands:diamond_wand"
 					tag: {
 						Damage: 0
@@ -613,7 +609,7 @@
 			tasks: [{
 				id: "182A48A8C74B1C1E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "wands:netherite_wand"
 					tag: {
 						Damage: 0
@@ -631,7 +627,7 @@
 			tasks: [{
 				id: "25170E55597A30D0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "display_case:display_case"
 					tag: {
 						BlockEntityTag: {
@@ -662,18 +658,6 @@
 		{
 			dependencies: ["0CF7C5EC0CD1CF14"]
 			hide: true
-			id: "0FE5D12CA4A99D98"
-			tasks: [{
-				id: "0FF5F2C9B1197738"
-				item: "dark-enchanting:dark_enchanter"
-				type: "item"
-			}]
-			x: -3.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["0CF7C5EC0CD1CF14"]
-			hide: true
 			id: "04B6D84F6373827B"
 			tasks: [{
 				id: "13917D63CF94D952"
@@ -690,7 +674,7 @@
 			tasks: [{
 				id: "1A2C0956B23BD21E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "xp_storage_trinkets:xp_conduit"
 					tag: {
 						Damage: 0
@@ -703,11 +687,12 @@
 		}
 		{
 			dependencies: ["04B6D84F6373827B"]
+			hide: true
 			id: "354C36B076F2771E"
 			tasks: [{
 				id: "1027E7BF1AD93822"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "xp_storage_trinkets:xp_saver"
 					tag: {
 						Damage: 0
@@ -751,18 +736,6 @@
 			}]
 			x: -1.0d
 			y: -3.5d
-		}
-		{
-			dependencies: ["0CF7C5EC0CD1CF14"]
-			hide: true
-			id: "05C62C9507EB16C7"
-			tasks: [{
-				id: "313CC3561BCE826C"
-				item: "lucky:lucky_block"
-				type: "item"
-			}]
-			x: 4.5d
-			y: 0.0d
 		}
 	]
 	title: "Miscellaneous"

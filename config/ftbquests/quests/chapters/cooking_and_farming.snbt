@@ -435,7 +435,7 @@
 			tasks: [{
 				id: "44227CC75D99CEC9"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "farmersdelight:iron_knife"
 					tag: {
 						Damage: 0
@@ -879,7 +879,7 @@
 			tasks: [{
 				id: "6C00C6BE0CE36AC7"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:netherite_scythe"
 					tag: {
 						Damage: 0
@@ -896,7 +896,7 @@
 			tasks: [{
 				id: "7AD0C972C5041CA2"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:diamond_scythe"
 					tag: {
 						Damage: 0
@@ -913,7 +913,7 @@
 			tasks: [{
 				id: "641E09414BCDEA0E"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:golden_scythe"
 					tag: {
 						Damage: 0
@@ -930,7 +930,7 @@
 			tasks: [{
 				id: "4DA2E87C427E686B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:iron_scythe"
 					tag: {
 						Damage: 0
@@ -947,7 +947,7 @@
 			tasks: [{
 				id: "29C8F6E210EEDD00"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:stone_scythe"
 					tag: {
 						Damage: 0
@@ -965,7 +965,7 @@
 			tasks: [{
 				id: "68D2F593E4A541E3"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:wooden_scythe"
 					tag: {
 						Damage: 0
@@ -982,7 +982,7 @@
 			tasks: [{
 				id: "75FF7EF214B9B95B"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:netherite_machete"
 					tag: {
 						Damage: 0
@@ -999,7 +999,7 @@
 			tasks: [{
 				id: "61D8A24EA147D9DB"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:diamond_machete"
 					tag: {
 						Damage: 0
@@ -1016,7 +1016,7 @@
 			tasks: [{
 				id: "6C96650FEF8C9EB0"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:golden_machete"
 					tag: {
 						Damage: 0
@@ -1033,7 +1033,7 @@
 			tasks: [{
 				id: "7EB572A51819CDBA"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:iron_machete"
 					tag: {
 						Damage: 0
@@ -1050,7 +1050,7 @@
 			tasks: [{
 				id: "35F24B8CB0943B02"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:stone_machete"
 					tag: {
 						Damage: 0
@@ -1068,7 +1068,7 @@
 			tasks: [{
 				id: "1AB0DA8DB3EB5A07"
 				item: {
-					Count: 1b
+					Count: 1
 					id: "harvest_scythes:wooden_machete"
 					tag: {
 						Damage: 0
